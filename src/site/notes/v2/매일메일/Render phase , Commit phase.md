@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/v2//render-phase-commit-phase/","tags":["매일메일","React"]}
+{
+  "dg-publish": true,
+  "permalink": "/v2/메일매일/Render-phase-Commit-phase/",
+  "tags": ["매일메일", "React"],
+}
 ---
 
 ## ❓질문
@@ -7,6 +11,7 @@
 리액트의 render phase와 commit phase에 대해서 설명해주세요.
 
 ---
+
 ## 💡 조사하기전 내가 알고 있던 내용
 
 리액트가 어떻게 상태가 변경됐는지 감지하고 업데이트를 하는지에 대한 2단계 렌더 페이즈와 커밋페이즈입니다.
@@ -16,9 +21,10 @@
 후 커밋페이즈때 실제 DOM에 가상 DOM을 입혀 업데이트합니다 이 방식은 대부분의 상황에서 신뢰성있고 빠른 업데이트를 진행하게됩니다. 이 과정을 재조정이라고합니다.
 
 ---
+
 ## 🏫 정리한 내용
 
-render 페이즈 : 상태나 props의 변화로 어떤 UI가 변경되어야하는지 Fiber tree를 순회하여 체크를 함 이 과정은 실제 DOM에서 일어나지않고 가상 DOM에서 일어납니다. 
+render 페이즈 : 상태나 props의 변화로 어떤 UI가 변경되어야하는지 Fiber tree를 순회하여 체크를 함 이 과정은 실제 DOM에서 일어나지않고 가상 DOM에서 일어납니다.
 이는 순수 계산 과정이므로 작업은 중단되거나 다시 실행가능합니다.
 Concurrent Mode를 통해 비동기 처리도 가능합니다.
 

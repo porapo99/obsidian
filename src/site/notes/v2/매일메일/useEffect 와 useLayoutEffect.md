@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/v2//use-effect-use-layout-effect/","tags":["매일메일"]}
+{
+  "dg-publish": true,
+  "permalink": "/v2/메일매일/useEffect-와-useLayoutEffect/",
+  "tags": ["매일메일"],
+}
 ---
 
 ## ❓질문
@@ -7,12 +11,14 @@
 useEffect 와 useLayoutEffect의 차이점에 대해서 설명해주세요.
 
 ---
+
 ## 💡 조사하기전 내가 알고 있던 내용
 
 useEffact와 useLayoutEffect 둘다 전부 렌더링이 된다음 사이드 이펙트를 일으키는 훅입니다.
-useEffact경우 렌더링이 완료되는 시점에 비동기적으로 실행됩니다. useLayoutEffect의 경우에는 DOM이 만들어지기 직전에 동기적으로 실행됩니다. 
+useEffact경우 렌더링이 완료되는 시점에 비동기적으로 실행됩니다. useLayoutEffect의 경우에는 DOM이 만들어지기 직전에 동기적으로 실행됩니다.
 
 ---
+
 ## 🏫 정리한 내용
 
 useEffact의 경우는 렌더링이 완료 되는 시점에 비동기적으로 실행됩니다 화면이 실제로 그려진 후 에 실행 되는 방식입니다. 즉 데이터를 가져오거나 이벤트 리스너 추가등 화면의 직접적인 영향을 주지않는 선의 작업에서 자주 사용됩니다.

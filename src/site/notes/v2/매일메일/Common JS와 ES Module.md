@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/v2//common-js-es-module/","tags":["매일메일","Module","JavaScript"]}
+{
+  "dg-publish": true,
+  "permalink": "/v2/메일매일/Common-JS와-ES-Module/",
+  "tags": ["매일메일", "Module", "JavaScript"],
+}
 ---
 
 ## ❓질문
@@ -7,6 +11,7 @@
 CommonJS와 ES Module의 차이점에 대해서 설명해주세요.
 
 ---
+
 ## 💡 **조사하기전 내가 알고 있던 내용**
 
 ESM은 자바스크립트에서 사용하는 모듈을 관리하는 도구입니다 import로 모듈을 가져오고 export로 모듈을 다른 모듈에서 사용가능하게 내보냅니다.
@@ -14,6 +19,7 @@ ESM은 자바스크립트에서 사용하는 모듈을 관리하는 도구입니
 모듈은 다른곳에서 사용가능 할 수 있는 독립적인 단위같은 개념입니다.
 
 ---
+
 ## 🏫 **정리한 내용**
 
 먼저 Common JS는 주로 Node.js 환경에서 사용되며 모듈을 ==동기적==으로 불러옵니다
