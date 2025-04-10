@@ -12,11 +12,20 @@ body {
     //  }
 }
 
-.svg-icon {
+.lucide-sticky-note {
   display: none;
 }
 
-.filename{
-  font-size : 14px;
+.filename {
+  font-size: 14px;
 }
 
+.filename:focus {
+  color: #FF9E64;
+  outline: none;
+  text-decoration: underline
+}
+
+.notelink:hover .filename {
+  color: #FF9E64
+}
