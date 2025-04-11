@@ -1,0 +1,36 @@
+---
+{"제목":"상태 로직 커스텀훅으로 뽑기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/plucking-with-state-logic-custom-hooks/","dgPassFrontmatter":true}
+---
+
+
+```ts
+import { useEffect, useState } from "react";
+
+
+const [state, setState] = useState()
+useEffect(() => {
+  const fetchData = async () => {
+    setState(data);
+  }
+  fetchData();
+}, [])
+
+if(state.isLoading) {
+  return <LoadingComponent />
+}
+if(state.error) {
+  return <ErrorComponent />
+}
+```
+
+-->
+
+```ts
+const {isLoading , isFail} = useFetchData();
+
+if(isLoading)  return <LoadingComponent />
+if(isFail) return <ErrorComponent />
+```
+
+
+Custom Hooks를 사용하면 코드를 확장성 있고 재사용 가능하게 작성할 수 있다.

@@ -1,0 +1,17 @@
+---
+{"제목":"curly braces","tags":["Frontend","React"],"dg-publish":true,"permalink":"/v2/studynotes/react/curly-braces/","dgPassFrontmatter":true}
+---
+
+
+`{} < 이건 언제 사용하는걸까?`
+
+
+```tsx
+alt = {"image"}
+src = "image.jpg"
+style = {{width : 100}}
+className = "clean-div"
+const x = {1 + 2}
+```
+
+문자열일때 curly braces 사용 지향.

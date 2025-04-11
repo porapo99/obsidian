@@ -1,0 +1,19 @@
+---
+{"제목":"값에 의한 전달","tags":["JavaScript","variable","중요"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/passing-by-value/","dgPassFrontmatter":true}
+---
+
+변수에 원시 값을 갖는 변수를 할당하면 할당받은 변수에는 할당하는 변수의 원시 값이 복사 되어 ㅊ전달된다.
+이를 값에 의한 전달 이라고 하며
+
+![11_4.jpg](/img/user/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A3%8C%EC%82%AC%EC%A7%84/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A3%8C%EC%82%AC%EC%A7%84/11_4.jpg)
+
+
+var score = 80;
+
+score이라는 변수를 선언하고 80의 값을 할당한뒤에 var copy = score; score의 값을 copy라는 변수에 복사하였다 이때 score , copy의 메모리 주소에 값에는 80이라는 숫자가 들어있으며 이는 각각의 메모리 주소에 저장되어있다. 그렇기 때문에
+
+score = 100;
+
+score변수의 값을 수정하여도 copy의 값은 80으로 남아있을수있다.
+
+같이 보면 좋은 자료 : [[v2/Studynotes/JavaScript/Forwarding by reference\|Forwarding by reference]]
