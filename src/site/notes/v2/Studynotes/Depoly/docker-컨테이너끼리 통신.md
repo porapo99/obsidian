@@ -1,16 +1,10 @@
 ---
-{
-  "제목": "docker-컨테이너끼리 통신",
-  "tags": ["Deploy", "Docker"],
-  "dg-publish": true,
-  "permalink": "/v2/Studynotes/Depoly/docker-컨테이너끼리 통신/",
-  "dgPassFrontmatter": true,
-}
+{"제목":"docker-컨테이너끼리 통신","tags":["Deploy","Docker"],"dg-publish":true,"permalink":"/v2/Studynotes/Depoly/docker-컨테이너끼리 통신/","dgPassFrontmatter":true}
 ---
 
 우리가 세팅해볼것 리버스프록시
 
-user -> reverse proxy -> web server
+ user -> reverse proxy -> web server
 
 장점 서버정보를 숨길 수 있음
 htpps 인증서 설치 쉬움
@@ -30,7 +24,7 @@ COPY ./nginx.conf /etc/nginx/conf.d/nginx.conf
 
 RUN rm /etc/nginx/conf.d/default.conf
 
-
+  
 
 EXPOSE 80
 
