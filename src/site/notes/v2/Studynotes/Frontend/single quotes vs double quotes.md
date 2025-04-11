@@ -1,5 +1,11 @@
 ---
-{"제목":"single quotes vs double quotes","tags":["Frontend","React","JavaScript","HTML"],"dg-publish":true,"permalink":"/v2/studynotes/frontend/single-quotes-vs-double-quotes/","dgPassFrontmatter":true}
+{
+  "제목": "single quotes vs double quotes",
+  "tags": ["Frontend", "React", "JavaScript", "HTML"],
+  "dg-publish": true,
+  "permalink": "/v2/studynotes/frontend/single-quotes-vs-double-quotes/",
+  "dgPassFrontmatter": true,
+}
 ---
 
 ```tsx
@@ -7,14 +13,13 @@
 ```
 
 ```tsx
-<input class='ccrc' type="button" value='Clean Code React' />
+<input class='ccrc' type='button' value='Clean Code React' />
 ```
 
 ```tsx
 //컴포넌트
-<Clean style={{ backgroundPsition : "left"}} />
+<Clean style={{ backgroundPsition: "left" }} />
 ```
-
 
 사실 의미 없는 논쟁
 
