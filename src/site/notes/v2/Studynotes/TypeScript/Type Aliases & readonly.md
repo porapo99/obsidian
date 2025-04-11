@@ -1,5 +1,5 @@
 ---
-{"제목":"Type Aliases & readonly","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/studynotes/type-script/type-aliases-and-readonly/","dgPassFrontmatter":true}
+{"제목":"Type Aliases & readonly","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/Studynotes/TypeScript/Type Aliases & readonly/","dgPassFrontmatter":true}
 ---
 
 

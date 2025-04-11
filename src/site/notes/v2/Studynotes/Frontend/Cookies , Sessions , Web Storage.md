@@ -1,5 +1,5 @@
 ---
-{"제목":"쿠키 , 세션 , 웹스토리지","tags":["Frontend","중요"],"dg-publish":true,"permalink":"/v2/studynotes/frontend/cookies-sessions-web-storage/","dgPassFrontmatter":true}
+{"제목":"쿠키 , 세션 , 웹스토리지","tags":["Frontend","중요"],"dg-publish":true,"permalink":"/v2/Studynotes/Frontend/Cookies , Sessions , Web Storage/","dgPassFrontmatter":true}
 ---
 
 

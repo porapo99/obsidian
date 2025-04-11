@@ -1,5 +1,5 @@
 ---
-{"제목":"curly braces","tags":["Frontend","React"],"dg-publish":true,"permalink":"/v2/studynotes/react/curly-braces/","dgPassFrontmatter":true}
+{"제목":"curly braces","tags":["Frontend","React"],"dg-publish":true,"permalink":"/v2/Studynotes/React/curly braces/","dgPassFrontmatter":true}
 ---
 
 

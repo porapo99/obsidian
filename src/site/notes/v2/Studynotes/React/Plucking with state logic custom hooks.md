@@ -1,5 +1,5 @@
 ---
-{"제목":"상태 로직 커스텀훅으로 뽑기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/plucking-with-state-logic-custom-hooks/","dgPassFrontmatter":true}
+{"제목":"상태 로직 커스텀훅으로 뽑기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/Studynotes/React/Plucking with state logic custom hooks/","dgPassFrontmatter":true}
 ---
 
 

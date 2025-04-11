@@ -1,5 +1,5 @@
 ---
-{"제목":"연관된 상태 단순화하기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/simplifying-associated-states/","dgPassFrontmatter":true}
+{"제목":"연관된 상태 단순화하기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/Studynotes/React/Simplifying Associated States/","dgPassFrontmatter":true}
 ---
 
 

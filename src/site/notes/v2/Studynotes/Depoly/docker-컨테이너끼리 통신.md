@@ -6,6 +6,9 @@
   "permalink": "/v2/studynotes/depoly/docker/",
   "dgPassFrontmatter": true,
 }
+=======
+{"제목":"docker-컨테이너끼리 통신","tags":["Deploy","Docker"],"dg-publish":true,"permalink":"/v2/Studynotes/Depoly/docker-컨테이너끼리 통신/","dgPassFrontmatter":true}
+>>>>>>> 697c159fc1794e7fafe5bc480bae5146383a2879
 ---
 
 우리가 세팅해볼것 리버스프록시

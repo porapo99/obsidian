@@ -1,5 +1,5 @@
 ---
-{"제목":"www.google.com을 입력하면","날짜":"2025-03-19","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/v2/daily-mail/www-google-com/","dgPassFrontmatter":true}
+{"제목":"www.google.com을 입력하면","날짜":"2025-03-19","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/v2/DailyMail/www.google.com을 입력하면/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

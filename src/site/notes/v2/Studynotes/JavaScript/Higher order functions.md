@@ -1,5 +1,5 @@
 ---
-{"제목":"고차함수","tags":["JavaScript","function"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/higher-order-functions/","dgPassFrontmatter":true}
+{"제목":"고차함수","tags":["JavaScript","function"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/Higher order functions/","dgPassFrontmatter":true}
 ---
 
 고차 함수는 함수를 인수로 전달 받거나 함수를 반환하는 함수를 의미합니다.

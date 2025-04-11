@@ -1,5 +1,5 @@
 ---
-{"제목":"HTML Attribute와 커스텀 컴포넌트의 Props가 혼용되지않게","tags":["React","Props"],"dg-publish":true,"permalink":"/v2/studynotes/react/html-attribute-props/","dgPassFrontmatter":true}
+{"제목":"HTML Attribute와 커스텀 컴포넌트의 Props가 혼용되지않게","tags":["React","Props"],"dg-publish":true,"permalink":"/v2/Studynotes/React/HTML Attribute와 커스텀 컴포넌트의 Props가 혼용되지않게/","dgPassFrontmatter":true}
 ---
 
 ```jsx

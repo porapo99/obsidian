@@ -1,5 +1,5 @@
 ---
-{"제목":"Event Loop","날짜":"2025-03-12","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/event-loop/","dgPassFrontmatter":true}
+{"제목":"Event Loop","날짜":"2025-03-12","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/DailyMail/Event Loop/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

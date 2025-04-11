@@ -1,5 +1,5 @@
 ---
-{"제목":"Type Assertion","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/studynotes/type-script/type-assertion/","dgPassFrontmatter":true}
+{"제목":"Type Assertion","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/Studynotes/TypeScript/Type Assertion/","dgPassFrontmatter":true}
 ---
 
 ```ts

@@ -1,5 +1,5 @@
 ---
-{"제목":"Narrowing","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/studynotes/type-script/narrowing/","dgPassFrontmatter":true}
+{"제목":"Narrowing","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/Studynotes/TypeScript/Narrowing/","dgPassFrontmatter":true}
 ---
 
 

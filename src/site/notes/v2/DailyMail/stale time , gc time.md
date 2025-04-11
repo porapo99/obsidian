@@ -1,5 +1,5 @@
 ---
-{"제목":"stale time , gc time","날짜":"2025-03-11","tags":["매일메일","RQ","cache"],"dg-publish":true,"permalink":"/v2/daily-mail/stale-time-gc-time/","dgPassFrontmatter":true}
+{"제목":"stale time , gc time","날짜":"2025-03-11","tags":["매일메일","RQ","cache"],"dg-publish":true,"permalink":"/v2/DailyMail/stale time , gc time/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

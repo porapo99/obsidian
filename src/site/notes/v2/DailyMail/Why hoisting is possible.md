@@ -1,5 +1,5 @@
 ---
-{"제목":"호이스팅이 가능한 이유","날짜":"2025-04-08","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/why-hoisting-is-possible/","dgPassFrontmatter":true}
+{"제목":"호이스팅이 가능한 이유","날짜":"2025-04-08","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/DailyMail/Why hoisting is possible/","dgPassFrontmatter":true}
 ---
 
 # ❓질문

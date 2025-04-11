@@ -1,5 +1,5 @@
 ---
-{"제목":"useState를 useReduecer로 리팩토링","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/use-state-use-reduecer/","dgPassFrontmatter":true}
+{"제목":"useState를 useReduecer로 리팩토링","tags":["React","state"],"dg-publish":true,"permalink":"/v2/Studynotes/React/useState를 useReduecer로 리팩토링/","dgPassFrontmatter":true}
 ---
 
 

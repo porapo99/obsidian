@@ -1,5 +1,5 @@
 ---
-{"제목":"props, state","날짜":"2025-03-13","tags":["매일메일","state","Props","React"],"dg-publish":true,"permalink":"/v2/daily-mail/props-state/","dgPassFrontmatter":true}
+{"제목":"props, state","날짜":"2025-03-13","tags":["매일메일","state","Props","React"],"dg-publish":true,"permalink":"/v2/DailyMail/props, state/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

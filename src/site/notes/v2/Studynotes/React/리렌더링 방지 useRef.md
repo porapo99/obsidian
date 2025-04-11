@@ -1,5 +1,5 @@
 ---
-{"제목":"리렌더링 방지 useRef","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/use-ref/","dgPassFrontmatter":true}
+{"제목":"리렌더링 방지 useRef","tags":["React","state"],"dg-publish":true,"permalink":"/v2/Studynotes/React/리렌더링 방지 useRef/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"제목":"Liternal types & as const","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/studynotes/type-script/liternal-types-and-as-const/","dgPassFrontmatter":true}
+{"제목":"Liternal types & as const","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/Studynotes/TypeScript/Liternal types & as const/","dgPassFrontmatter":true}
 ---
 
 타입스크립트에서 쓸수있는 문법인데

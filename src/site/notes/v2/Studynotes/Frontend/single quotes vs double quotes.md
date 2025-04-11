@@ -3,7 +3,7 @@
   "제목": "single quotes vs double quotes",
   "tags": ["Frontend", "React", "JavaScript", "HTML"],
   "dg-publish": true,
-  "permalink": "/v2/studynotes/frontend/single-quotes-vs-double-quotes/",
+  "permalink": "/v2/Studynotes/Frontend/single quotes vs double quotes/",
   "dgPassFrontmatter": true,
 }
 ---
