@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/hoisting/","tags":["매일메일","JavaScript","variable","function"]}
+{"제목":"호이스팅","날짜":"2025-03-24","tags":["매일메일","JavaScript","variable","function"],"dg-publish":true,"permalink":"/v2/daily-mail/hoisting/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

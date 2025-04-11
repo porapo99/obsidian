@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/closure/","tags":["매일메일","JavaScript"]}
+{"제목":"클로저","날짜":"2025-03-6","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/closure/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

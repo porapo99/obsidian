@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/react-optimization/","tags":["매일메일","React","Memoization"]}
+{"제목":"리액트 성능 최적화","날짜":"2025-03-17","tags":["매일메일","React","Memoization"],"dg-publish":true,"permalink":"/v2/daily-mail/react-optimization/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

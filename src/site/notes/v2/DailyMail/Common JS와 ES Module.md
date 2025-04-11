@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/common-js-es-module/","tags":["매일메일","Module","JavaScript"]}
+{"제목":"Common JS와 ES Module","날짜":"2025-03-28","tags":["매일메일","Module","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/common-js-es-module/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/propagating-events/","tags":["매일메일","Frontend","JavaScript"]}
+{"제목":"이벤트 전파","날짜":"2025-03-31","tags":["매일메일","Frontend","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/propagating-events/","dgPassFrontmatter":true}
 ---
 
 # ❓질문

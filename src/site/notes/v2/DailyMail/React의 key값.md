@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/react-key/","tags":["매일메일","React"]}
+{"제목":"리액트의 key값","날짜":"2025-04-08","tags":["매일메일","React"],"dg-publish":true,"permalink":"/v2/daily-mail/react-key/","dgPassFrontmatter":true}
 ---
 
 # ❓질문

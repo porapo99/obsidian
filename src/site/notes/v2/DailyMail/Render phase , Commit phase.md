@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/render-phase-commit-phase/","tags":["매일메일","React"]}
+{"제목":"Render phase , Commit phase","날짜":"2025-03-21","tags":["매일메일","React"],"dg-publish":true,"permalink":"/v2/daily-mail/render-phase-commit-phase/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/js-array/","tags":["매일메일","JavaScript"]}
+{"제목":"자바스크립트에 배열","날짜":"2025-03-25","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/js-array/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

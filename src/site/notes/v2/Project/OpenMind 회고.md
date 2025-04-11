@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/project/open-mind/","tags":["Project"]}
+{"제목":"\bOpenMind 회고","날짜":"2025-04-03","tags":["Project"],"dg-publish":true,"permalink":"/v2/project/open-mind/","dgPassFrontmatter":true}
 ---
 
 # 🏆 프로젝트 or 강의 목표 

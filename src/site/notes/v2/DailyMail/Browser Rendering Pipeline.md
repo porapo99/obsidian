@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/browser-rendering-pipeline/","tags":["매일메일","Frontend"]}
+{"제목":"브라우저 렌더링 파이프라인","날짜":"2025-03-18","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/v2/daily-mail/browser-rendering-pipeline/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

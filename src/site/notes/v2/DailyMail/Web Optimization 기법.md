@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v2/daily-mail/web-optimization/","tags":["매일메일","Frontend"]}
+{"제목":"웹 최적화 기법","날짜":"2025-04-01","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/v2/daily-mail/web-optimization/","dgPassFrontmatter":true}
 ---
 
 # ❓질문
