@@ -1,5 +1,5 @@
 ---
-{"제목":"TypeScript DOM Manupulation","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/studynotes/type-script/type-script-dom-manupulation/","dgPassFrontmatter":true}
+{"제목":"TypeScript DOM Manupulation","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/Studynotes/TypeScript/TypeScript DOM Manupulation/","dgPassFrontmatter":true}
 ---
 
 

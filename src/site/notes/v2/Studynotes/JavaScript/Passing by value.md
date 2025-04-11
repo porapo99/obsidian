@@ -1,5 +1,5 @@
 ---
-{"제목":"값에 의한 전달","tags":["JavaScript","variable","중요"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/passing-by-value/","dgPassFrontmatter":true}
+{"제목":"값에 의한 전달","tags":["JavaScript","variable","중요"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/Passing by value/","dgPassFrontmatter":true}
 ---
 
 변수에 원시 값을 갖는 변수를 할당하면 할당받은 변수에는 할당하는 변수의 원시 값이 복사 되어 ㅊ전달된다.

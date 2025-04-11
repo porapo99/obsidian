@@ -1,5 +1,5 @@
 ---
-{"제목":"실행 컨텍스트","날짜":"2025-03-10","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/daily-mail/execution-context/","dgPassFrontmatter":true}
+{"제목":"실행 컨텍스트","날짜":"2025-03-10","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/v2/DailyMail/Execution Context/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

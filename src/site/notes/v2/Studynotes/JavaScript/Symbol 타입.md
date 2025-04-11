@@ -1,5 +1,5 @@
 ---
-{"제목":"심벌 타입","tags":["JavaScript","타입"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/symbol/","dgPassFrontmatter":true}
+{"제목":"심벌 타입","tags":["JavaScript","타입"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/Symbol 타입/","dgPassFrontmatter":true}
 ---
 
 ```js

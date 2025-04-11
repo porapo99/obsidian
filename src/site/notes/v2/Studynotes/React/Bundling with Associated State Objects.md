@@ -1,5 +1,5 @@
 ---
-{"제목":"연관된 상태 객체로 묶어내기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/bundling-with-associated-state-objects/","dgPassFrontmatter":true}
+{"제목":"연관된 상태 객체로 묶어내기","tags":["React","state"],"dg-publish":true,"permalink":"/v2/Studynotes/React/Bundling with Associated State Objects/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"제목":"reflow, repaint","날짜":"2025-03-7","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/v2/daily-mail/reflow-repaint/","dgPassFrontmatter":true}
+{"제목":"reflow, repaint","날짜":"2025-03-7","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/v2/DailyMail/reflow, repaint/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

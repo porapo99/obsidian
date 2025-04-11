@@ -1,5 +1,5 @@
 ---
-{"제목":"참조에 의한 전달","tags":["JavaScript","중요","variable"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/forwarding-by-reference/","dgPassFrontmatter":true}
+{"제목":"참조에 의한 전달","tags":["JavaScript","중요","variable"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/Forwarding by reference/","dgPassFrontmatter":true}
 ---
 
 

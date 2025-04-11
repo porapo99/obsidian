@@ -1,5 +1,5 @@
 ---
-{"제목":"불필요한 Props 복사 및 연산 X","tags":["React","Props"],"dg-publish":true,"permalink":"/v2/studynotes/react/copying-and-computing-unnecessary-props/","dgPassFrontmatter":true}
+{"제목":"불필요한 Props 복사 및 연산 X","tags":["React","Props"],"dg-publish":true,"permalink":"/v2/Studynotes/React/Copying and computing unnecessary Props/","dgPassFrontmatter":true}
 ---
 
 

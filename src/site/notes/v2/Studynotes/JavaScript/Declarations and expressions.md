@@ -1,5 +1,5 @@
 ---
-{"제목":"선언문과 표현식","tags":["JavaScript"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/declarations-and-expressions/","dgPassFrontmatter":true}
+{"제목":"선언문과 표현식","tags":["JavaScript"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/Declarations and expressions/","dgPassFrontmatter":true}
 ---
 
 ```js

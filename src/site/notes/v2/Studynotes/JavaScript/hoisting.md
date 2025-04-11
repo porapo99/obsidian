@@ -1,5 +1,5 @@
 ---
-{"제목":"호이스팅","tags":["JavaScript","variable","중요"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/hoisting/","dgPassFrontmatter":true}
+{"제목":"호이스팅","tags":["JavaScript","variable","중요"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/hoisting/","dgPassFrontmatter":true}
 ---
 
 

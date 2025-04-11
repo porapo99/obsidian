@@ -1,5 +1,5 @@
 ---
-{"제목":"Class , Constructor","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/studynotes/type-script/class-constructor/","dgPassFrontmatter":true}
+{"제목":"Class , Constructor","tags":["TypeScript"],"dg-publish":true,"permalink":"/v2/Studynotes/TypeScript/Class , Constructor/","dgPassFrontmatter":true}
 ---
 
 

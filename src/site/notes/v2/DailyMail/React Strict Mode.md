@@ -1,5 +1,5 @@
 ---
-{"제목":"React Strict Mode","날짜":"2025-03-20","tags":["매일메일"],"dg-publish":true,"permalink":"/v2/daily-mail/react-strict-mode/","dgPassFrontmatter":true}
+{"제목":"React Strict Mode","날짜":"2025-03-20","tags":["매일메일"],"dg-publish":true,"permalink":"/v2/DailyMail/React Strict Mode/","dgPassFrontmatter":true}
 ---
 
 ## ❓질문

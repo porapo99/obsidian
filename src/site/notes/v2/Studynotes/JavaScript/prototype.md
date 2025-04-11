@@ -1,5 +1,5 @@
 ---
-{"제목":"프로토타입","tags":["JavaScript"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/prototype/","dgPassFrontmatter":true}
+{"제목":"프로토타입","tags":["JavaScript"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/prototype/","dgPassFrontmatter":true}
 ---
 
 자바스크립트가 프로토타입 기반 언어 라고 불리는데 이 모든 객체들이 메소드와 속성들을 상속 받기 위한 템플릿으로써 프로토타입 객체를 가진다는 의미

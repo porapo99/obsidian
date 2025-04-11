@@ -1,5 +1,5 @@
 ---
-{"제목":"불필요한 상태","tags":["React","state"],"dg-publish":true,"permalink":"/v2/studynotes/react/unnecessary-state/","dgPassFrontmatter":true}
+{"제목":"불필요한 상태","tags":["React","state"],"dg-publish":true,"permalink":"/v2/Studynotes/React/Unnecessary state/","dgPassFrontmatter":true}
 ---
 
 

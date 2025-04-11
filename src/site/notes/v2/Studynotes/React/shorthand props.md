@@ -1,5 +1,5 @@
 ---
-{"제목":"shorthand props","tags":["React","Props"],"dg-publish":true,"permalink":"/v2/studynotes/react/shorthand-props/","dgPassFrontmatter":true}
+{"제목":"shorthand props","tags":["React","Props"],"dg-publish":true,"permalink":"/v2/Studynotes/React/shorthand props/","dgPassFrontmatter":true}
 ---
 
 

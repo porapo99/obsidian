@@ -1,5 +1,5 @@
 ---
-{"제목":"데이터 타입이 왜 필요한가","tags":["JavaScript","타입"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/why-do-we-need-data-types/","dgPassFrontmatter":true}
+{"제목":"데이터 타입이 왜 필요한가","tags":["JavaScript","타입"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/Why do we need data types?/","dgPassFrontmatter":true}
 ---
 
 값은 메모리에 저장하고 참조할 수 있어야 한다. 

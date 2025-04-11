@@ -1,5 +1,5 @@
 ---
-{"제목":"JS 변수 네이밍 규칙","tags":["function","variable"],"dg-publish":true,"permalink":"/v2/studynotes/java-script/js/","dgPassFrontmatter":true}
+{"제목":"JS 변수 네이밍 규칙","tags":["function","variable"],"dg-publish":true,"permalink":"/v2/Studynotes/JavaScript/JS 변수 네이밍 규칙/","dgPassFrontmatter":true}
 ---
 
 
