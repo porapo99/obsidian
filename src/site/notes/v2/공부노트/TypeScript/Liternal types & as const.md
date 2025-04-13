@@ -23,4 +23,4 @@ function 함수(a : 'kim') {
 함수(자료.name)
 ```
 
-타입을 object 의 value로 바꿔주고 object 안에있는 속성을 readonly fh qkRNjwnsa
+타입을 object 의 value로 바꿔주고 object 안에있는 속성을 readonly로 바꿔줌
