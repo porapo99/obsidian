@@ -9,7 +9,7 @@ function CopyProps({v}) {
 }
 ```
 
-이런식이 대다수 굳이 state에 넣을필요 x
+이런식이 대다수 굳이 state에 넣을필요는 없다
 
 ```tsx
 function CopyProps({v}) {
@@ -20,14 +20,11 @@ const NewV = 뭔가_엄청난_함수(v)
 }
 ```
 
-이럴 경우에
+이럴 경우에는 아래의 코드처럼 useMemo를 사용하면 좋을거같다.
 
 ```tsx
 const NewV = useMemo() => (뭔가_엄청난_함수(v),[v])
 ```
-
-useMemo를 사용하면됨.
-
 
 사실 무거운 연산같은 경우는 props로 넘어오기전에 하는게 좋다.
 결국 props의 불필요한 복사는 지양하면 좋겠다.

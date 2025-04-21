@@ -3,9 +3,9 @@
 ---
 
 
-리렌더링 방지가 필요하다면 useState 대신 useRef
+리렌더링 방지가 필요하다면 useState 대신 useRef를 사용하자
 
--> 컴포넌트의 전체적인 수명과 동일하게 지속된 정보를 일관적으로 제공해야하는 경우
+컴포넌트의 전체적인 수명과 동일하게 지속된 정보를 일관적으로 제공해야하는 경우
 
 ```jsx
 function RefInsteadOfState() {
@@ -41,6 +41,5 @@ function RefInsteadOfState() {
 ```
 
 useRef는 상태 변경 없이 값이 유지되므로 불필요한 렌더링을 방지할수있다.
-
 
 useState 대신 useRef를 사용하면 컴포넌트의 생명주기와 동일한 `리렌더링되지 않는 상태를 만들 수 있다.`

@@ -56,8 +56,7 @@ if (제목?.innerHTML != undefined){
 ```
 
 
-
-이벤트 리스너
+번외 이벤트 리스너
 
 ```ts
 let 버튼 = document.getElementById('button');

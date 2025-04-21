@@ -14,6 +14,4 @@ function MyButton({children, ...rest}) {
 }
 ```
 
-
-HTML , JS의 예약어와
-커스텀 컴포넌트의 Props가 혼용되지않게하자
+HTML , JS의 예약어와 커스텀 컴포넌트의 Props가 혼용되지않게하자
