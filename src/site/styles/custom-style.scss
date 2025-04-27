@@ -34,3 +34,12 @@ body {
   margin-top: 15px;
   margin-bottom: 50px;
 }
+
+ol, ul {
+  font-size: 14px;
+}
+
+ol > li, ul > li, 
+ol > li::marker, ul > li::marker {
+  font-size: 14px;
+}
