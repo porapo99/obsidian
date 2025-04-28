@@ -44,3 +44,19 @@ ol > li, ul > li,
 ol > li::marker, ul > li::marker {
   font-size: 14px;
 }
+
+/* 기본값 (1400px 미만) - 현재 마진 유지하고 아래 마진만 추가 */
+.content.cm-s-obsidian {
+  margin-top: 90px;
+  margin-right: 354px;
+  margin-left: 354px;
+  margin-bottom: 36px;
+}
+
+/* 1400px 이상 화면에서의 마진 설정 */
+@media (min-width: 1400px) {
+  .content.cm-s-obsidian {
+    margin-top: 36px;
+    /* 좌우 마진은 기존값(354px) 유지 */
+  }
+}
