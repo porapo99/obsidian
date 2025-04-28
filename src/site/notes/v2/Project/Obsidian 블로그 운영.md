@@ -1,5 +1,5 @@
 ---
-{"제목":"Obsidian 블로그 운영","날짜":"2025-04-11","tags":null,"dg-publish":true,"permalink":"/v2/Project/Obsidian 블로그 운영/","dgPassFrontmatter":true}
+{"제목":"Obsidian 블로그 운영","날짜":"2025-04-11","tags":["Project"],"dg-publish":true,"permalink":"/v2/Project/Obsidian 블로그 운영/","dgPassFrontmatter":true}
 ---
 
 ## 🏆 프로젝트 목표 
@@ -12,7 +12,7 @@
 2025.04.08~2025.04.11(4일간)
 
 ---
-## ✅문제와 문제 해결건 (선택) 
+## ✅ 프로젝트에 대한 전반적인 경험
 
 큰 문제는 없었지만 블로그를 어떤 식으로 공유할지에 대해 고민해보았습니다.
 
@@ -34,6 +34,14 @@
 
 복잡한 설정 없이 clone으로 배포가 가능하며, 옵시디언 플러그인 내부 설정으로 깃허브와 연동한 후 명령어로 노트를 배포할 수 있었습니다.
 
+https://github.com/porapo99/obsidian2 (프라이빗 레포)
+
 CSS 변경을 위해 로컬로 가져와 수정했고, 코드를 살펴본 결과 .njk와 Eleventy를 사용하는 것을 확인했습니다. 
 
 전반적으로 어렵지 않았고, 정적 사이트 생성 도구의 실제 활용 사례와 역할에 대해 더 깊이 이해할 수 있어 좋았습니다. [[v2/공부노트/Frontend/정적 사이트 생성기\|정적 사이트 생성기]]
+
+---
+## 📚 참고한 웹이나 문서 (선택)
+
+https://dg-docs.ole.dev/
+https://steemit.com/sctcrypto/@anpigon/20220330t113002362z
