@@ -2,7 +2,7 @@
 {"제목":"Obsidian 블로그 운영","날짜":"2025-04-11","tags":null,"dg-publish":true,"permalink":"/v2/Project/Obsidian 블로그 운영/","dgPassFrontmatter":true}
 ---
 
-## 🏆 프로젝트 or 강의 목표 
+## 🏆 프로젝트 목표 
 
 내 개인 메모장으로 쓰고있는 옵시디언을 외부에 공유하여 지식을 나누고 글을쓰는데 재미를 느끼고 싶어서 시작한 활동입니다.
 
