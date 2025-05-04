@@ -133,6 +133,18 @@ h6 {
   color: #4dabf7;
 }
 
+.active-note {
+  color: #4dabf7;
+}
+
+.active-note * {
+  color: #4dabf7 !important;
+}
+
+.notelink.active-note {
+  transform: translateX(0px);
+}
+
 .header-tags {
   margin-top: 15px;
   margin-bottom: 50px;
