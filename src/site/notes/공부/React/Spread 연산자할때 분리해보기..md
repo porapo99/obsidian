@@ -1,5 +1,5 @@
 ---
-{"제목":"Spread 연산자할때 분리해보기.","tags":["React","Props"],"dg-publish":true,"permalink":"/공부/React/Spread 연산자할때 분리해보기./","dgPassFrontmatter":true}
+{"제목":"Spread 연산자할때 분리해보기.","tags":["React","Props"],"dg-publish":true,"permalink":"/공부/React/Spread 연산자할때 분리해보기./","dgPassFrontmatter":true,"created":"2024-10-04T13:23:46.335+09:00","updated":"2025-04-11T22:07:44.649+09:00"}
 ---
 
 

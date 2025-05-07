@@ -1,5 +1,5 @@
 ---
-{"제목":"Narrowing","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Narrowing/","dgPassFrontmatter":true}
+{"제목":"Narrowing","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Narrowing/","dgPassFrontmatter":true,"created":"2025-03-21T23:38:28.873+09:00","updated":"2025-04-11T22:08:18.828+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"제목":"RCC와 RSC","tags":["React","NextJS"],"dg-publish":true,"permalink":"/공부/Next.js/RCC와 RSC/","dgPassFrontmatter":true}
+{"제목":"RCC와 RSC","tags":["React","NextJS"],"dg-publish":true,"permalink":"/공부/Next.js/RCC와 RSC/","dgPassFrontmatter":true,"created":"2025-04-28T14:35:59.440+09:00","updated":"2025-04-29T17:09:57.156+09:00"}
 ---
 
 먼저 이 글은 React의 기능을 다루고 있지만 Next.js에서 조금 더 많이 접하고 Next.js에서 의 활용 방안에 대해서 서술하여 Next.js 카테고리에 넣겠습니다.

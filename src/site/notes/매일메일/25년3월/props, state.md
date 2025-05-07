@@ -1,5 +1,5 @@
 ---
-{"제목":"props, state","날짜":"2025-03-13","tags":["매일메일","state","Props","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/props, state/","dgPassFrontmatter":true}
+{"제목":"props, state","날짜":"2025-03-13","tags":["매일메일","state","Props","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/props, state/","dgPassFrontmatter":true,"created":"2025-03-31T01:16:58.716+09:00","updated":"2025-04-11T00:48:50.072+09:00"}
 ---
 
 ## ❓질문

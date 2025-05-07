@@ -1,5 +1,5 @@
 ---
-{"제목":"shorthand props","tags":["React","Props"],"dg-publish":true,"permalink":"/공부/React/shorthand props/","dgPassFrontmatter":true}
+{"제목":"shorthand props","tags":["React","Props"],"dg-publish":true,"permalink":"/공부/React/shorthand props/","dgPassFrontmatter":true,"created":"2024-10-02T01:05:28.231+09:00","updated":"2025-04-11T22:07:49.185+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"제목":"CORS","날짜":"2025-05-01","tags":["매일메일","Frontend","Web"],"dg-publish":true,"permalink":"/매일메일/25년4월/CORS/","dgPassFrontmatter":true}
+{"제목":"CORS","날짜":"2025-05-01","tags":["매일메일","Frontend","Web"],"dg-publish":true,"permalink":"/매일메일/25년4월/CORS/","dgPassFrontmatter":true,"created":"2025-05-01T21:42:24.554+09:00","updated":"2025-05-01T21:56:56.863+09:00"}
 ---
 
 ## ❓질문

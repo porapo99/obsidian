@@ -1,5 +1,5 @@
 ---
-{"제목":"useEffect 와 useLayoutEffect","날짜":"2025-04-07","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년4월/useEffect 와 useLayoutEffect/","dgPassFrontmatter":true}
+{"제목":"useEffect 와 useLayoutEffect","날짜":"2025-04-07","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년4월/useEffect 와 useLayoutEffect/","dgPassFrontmatter":true,"created":"2025-04-10T22:58:01.094+09:00","updated":"2025-04-11T00:54:27.920+09:00"}
 ---
 
 ## ❓질문

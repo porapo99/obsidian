@@ -1,5 +1,5 @@
 ---
-{"제목":"Web Server와 WAS","tags":["Frontend","Deploy"],"dg-publish":true,"permalink":"/공부/Frontend/Web Server와 WAS/","dgPassFrontmatter":true}
+{"제목":"Web Server와 WAS","tags":["Frontend","Deploy"],"dg-publish":true,"permalink":"/공부/Frontend/Web Server와 WAS/","dgPassFrontmatter":true,"created":"2025-04-28T09:57:13.392+09:00","updated":"2025-04-28T10:27:23.626+09:00"}
 ---
 
 먼저 Web Server와 WAS를 알아 보기전에 정적 페이지와 동적 페이지에 대해 설명 해보겠습니다.

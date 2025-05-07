@@ -1,5 +1,5 @@
 ---
-{"제목":"var의 문제점","tags":["function","JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/var의 문제점/","dgPassFrontmatter":true}
+{"제목":"var의 문제점","tags":["function","JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/var의 문제점/","dgPassFrontmatter":true,"created":"2025-03-21T12:11:54.842+09:00","updated":"2025-04-29T16:23:41.610+09:00"}
 ---
 
 변수 선언에 사용되는 var에 문제점에 대해 설명드리겠습니다.

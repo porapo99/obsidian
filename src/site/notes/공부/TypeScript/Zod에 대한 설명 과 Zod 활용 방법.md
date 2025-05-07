@@ -1,5 +1,5 @@
 ---
-{"제목":"Zod에 대한 설명 과 Zod 활용 방법","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Zod에 대한 설명 과 Zod 활용 방법/","dgPassFrontmatter":true}
+{"제목":"Zod에 대한 설명 과 Zod 활용 방법","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Zod에 대한 설명 과 Zod 활용 방법/","dgPassFrontmatter":true,"created":"2025-04-29T12:28:27.174+09:00","updated":"2025-05-01T21:30:58.435+09:00"}
 ---
 
  `Zod는 TypeScript를 우선으로 하는 스키마 선언 및 검증 라이브러리입니다.` Zod의 공식 홈페이지를 가면 볼 수 있는 글귀다.

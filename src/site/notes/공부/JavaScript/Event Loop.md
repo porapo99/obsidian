@@ -1,5 +1,5 @@
 ---
-{"제목":"Event Loop","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/Event Loop/","dgPassFrontmatter":true}
+{"제목":"Event Loop","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/Event Loop/","dgPassFrontmatter":true,"created":"2025-03-21T23:28:46.192+09:00","updated":"2025-04-29T16:23:37.592+09:00"}
 ---
 
 자바스크립트의 엔진은 '메모리 힙' 과 '콜 스택'으로 구성이 되어있다.

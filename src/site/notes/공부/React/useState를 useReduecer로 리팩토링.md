@@ -1,5 +1,5 @@
 ---
-{"제목":"useState를 useReduecer로 리팩토링","tags":["React","state"],"dg-publish":true,"permalink":"/공부/React/useState를 useReduecer로 리팩토링/","dgPassFrontmatter":true}
+{"제목":"useState를 useReduecer로 리팩토링","tags":["React","state"],"dg-publish":true,"permalink":"/공부/React/useState를 useReduecer로 리팩토링/","dgPassFrontmatter":true,"created":"2024-09-29T17:53:15.958+09:00","updated":"2025-04-11T22:07:40.698+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"제목":"CSS Flexbos와 Grid의 차이점","날짜":"2025-04-10","tags":["매일메일","CSS"],"dg-publish":true,"permalink":"/매일메일/25년4월/CSS Flexbos와 Grid의 차이점/","dgPassFrontmatter":true}
+{"제목":"CSS Flexbos와 Grid의 차이점","날짜":"2025-04-10","tags":["매일메일","CSS"],"dg-publish":true,"permalink":"/매일메일/25년4월/CSS Flexbos와 Grid의 차이점/","dgPassFrontmatter":true,"created":"2025-04-11T01:42:17.929+09:00","updated":"2025-04-28T08:36:18.547+09:00"}
 ---
 
 ## ❓질문

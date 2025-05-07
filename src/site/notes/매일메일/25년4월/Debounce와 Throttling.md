@@ -1,5 +1,5 @@
 ---
-{"제목":"Debounce와 Throttling","날짜":"2025-04-03","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/Debounce와 Throttling/","dgPassFrontmatter":true}
+{"제목":"Debounce와 Throttling","날짜":"2025-04-03","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/Debounce와 Throttling/","dgPassFrontmatter":true,"created":"2025-04-10T23:08:54.896+09:00","updated":"2025-04-11T06:23:09.882+09:00"}
 ---
 
 ## ❓질문
