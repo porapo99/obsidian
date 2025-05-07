@@ -1,5 +1,5 @@
 ---
-{"제목":"async defer","날짜":"2025-03-27","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/async defer/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:52.233+09:00"}
+{"제목":"async defer","날짜":"2025-03-27","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/async defer/","dgPassFrontmatter":true,"updated":"2025-05-08T04:38:08.901+09:00"}
 ---
 
 ## ❓질문
@@ -16,11 +16,13 @@ script 태그에서 async와 defer의 차이점에 대해서 설명해주세요.
 
 둘다 스크립트 태그에 사용할수있는 속성입니다.
 
-먼저 async는 HTML 파싱여부와 상관없이 스크립트의 다운이 된다면 작동할수 있게 하느 속성값이며 순서여부와 상관없을때 사용합니다
+먼저 `async`는 HTML 파싱여부와 상관없이 스크립트의 다운이 된다면 작동할수 있게 하느 속성값이며 순서여부와 상관없을때 사용합니다
 
-반대로 defer은 HTML 파싱후 다운로드가 진작 되더라도 HTML 파싱후 동작하도록하는 속성값입니다 그렇기에 파싱 여부에따라 순서여부가 중요할때 사용합니다
+반대로 `defer`은 HTML 파싱후 다운로드가 진작 되더라도 HTML 파싱후 동작하도록하는 속성값입니다 그렇기에 파싱 여부에따라 순서여부가 중요할때 사용합니다
 
-공통점 -> 스크립트가 비동기적으로 다운됨
+공통점은 스크립트가 비동기적으로 다운됩니다.
 
-차이점 -> async : 다운로드 후 바로 , 스크립트 실행시 파싱멈춤
--> defer : HTML 파싱 후 , DomContentLoaded 직전에 실행됨
+차이점
+
+async : `다운로드 후 바로 , 스크립트 실행시 파싱멈춤`
+defer : `HTML 파싱 후 , DomContentLoaded 직전에 실행됨`
