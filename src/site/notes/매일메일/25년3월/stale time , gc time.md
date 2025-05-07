@@ -1,5 +1,5 @@
 ---
-{"제목":"stale time , gc time","날짜":"2025-03-11","tags":["매일메일","RQ","cache"],"dg-publish":true,"permalink":"/매일메일/25년3월/stale time , gc time/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:33.399+09:00"}
+{"제목":"stale time , gc time","날짜":"2025-03-11","tags":["매일메일","RQ","cache"],"dg-publish":true,"permalink":"/매일메일/25년3월/stale time , gc time/","dgPassFrontmatter":true,"updated":"2025-05-08T04:42:07.209+09:00"}
 ---
 
 ## ❓질문
@@ -14,13 +14,13 @@ tanstack-query에서 stale time은 텐스택 쿼리에서 외부 api통신으로
 ---
 ## 🏫 **정리한 내용**
 
-stale time 은 데이터가 얼마나 오래 ==신선한== 상태로 유지 되는지 정하는 시간입니다
+`stale time` 은 데이터가 얼마나 오래 `신선한` 상태로 유지 되는지 정하는 시간입니다
 gc time은 해당 쿼리가 사용할곳이 없게된 이후에도 캐시 데이터를 얼마나 유지되게할지 결정하는 시간입니다.
 
-자세히 설명하면 stale time을 5분으로 설정할시에 5분동아느 refetch 하더라도 ==신선한==데이터로 취급하기 때문에 추가 네트워크 요청없이 캐시된 데이터를 사용합니다.
+자세히 설명하면 stale time을 5분으로 설정할시에 5분동아느 refetch 하더라도 `신선한` 데이터로 취급하기 때문에 추가 네트워크 요청없이 캐시된 데이터를 사용합니다.
 *기본 값은 0입니다.*
 
-gc time은 해당 쿼리가 사용되지 않는 시점에서 설정된 시간이 지나면 캐시에서 데이터가 삭제됩니다.
+`gc time`은 해당 쿼리가 사용되지 않는 시점에서 설정된 시간이 지나면 캐시에서 데이터가 삭제됩니다.
 
 ex) gc time = "10분" 일시 해당 쿼리를 사용하는 Component가 Unmount 된 시점으로 부터 10분뒤에 캐시 데이터가 삭제 됩니다.
 *기본값은 5분입니다.*

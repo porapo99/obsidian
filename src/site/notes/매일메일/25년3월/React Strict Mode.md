@@ -1,5 +1,5 @@
 ---
-{"제목":"React Strict Mode","날짜":"2025-03-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년3월/React Strict Mode/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:38.665+09:00"}
+{"제목":"React Strict Mode","날짜":"2025-03-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년3월/React Strict Mode/","dgPassFrontmatter":true,"updated":"2025-05-08T04:41:04.736+09:00"}
 ---
 
 ## ❓질문
@@ -15,5 +15,5 @@
 ## 🏫 정리한 내용
 
 리액트의 잠재적인 문제를 사전에 예방하는데 사용됩니다.
-첫번째 효과로는 오래된 Life Cycle Method와 비권장 API의 사용을 감지합니다.
-두번째 효과로는 의도치 않은 부수효과를 방지합니다. 이를 검증하기 위해 useEffect(), useState()등 일부 훅이나 메소드를 두 번 실행합니다.
+첫번째 효과로는 `오래된 Life Cycle Method와 비권장 API의 사용을 감지`합니다.
+두번째 효과로는 `의도치 않은 부수효과를 방지합니다.` 이를 검증하기 위해 useEffect(), useState()등 일부 훅이나 메소드를 두 번 실행합니다.

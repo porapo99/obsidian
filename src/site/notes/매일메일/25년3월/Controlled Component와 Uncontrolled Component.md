@@ -1,5 +1,5 @@
 ---
-{"제목":"Controlled Component와 Uncontrolled Component","날짜":"2025-03-14","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/Controlled Component와 Uncontrolled Component/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:46.068+09:00"}
+{"제목":"Controlled Component와 Uncontrolled Component","날짜":"2025-03-14","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/Controlled Component와 Uncontrolled Component/","dgPassFrontmatter":true,"updated":"2025-05-08T04:39:18.476+09:00"}
 ---
 
 ## ❓질문
@@ -14,9 +14,9 @@
 ---
 ## 🏫 정리한 내용
 
-제어형 컴포넌트와 비제어형 컴포넌트는 state의 유무에서 가장 차이가 납니다
-먼저 제어형 컴포넌트는 입력한 값을 state에 보관하여 사용자에 입력이 변경될떄마다 onChange핸들러를 통해 상태를 업데이트 합니다. 주로 입력된 값을 ==검증== 하거나 ==추가적인== 로직이 있는 경우에 사용됩니다.
+`제어형 컴포넌트`와 `비제어형 컴포넌트`는 `state의 유무`에서 가장 차이가 납니다
+먼저 제어형 컴포넌트는 입력한 값을 state에 보관하여 사용자에 입력이 변경될떄마다 onChange핸들러를 통해 상태를 업데이트 합니다. 주로 입력된 값을 `검증` 하거나 `추가적인` 로직이 있는 경우에 사용됩니다.
 
-비제어형 컴포넌트는 state가 아닌 Dom 으로 입력값을 제어합니다. 그렇기 때문에 이는 리액트가 제어하지 않습니다. useRef를 통해 참조 객체 ref를 사용해서 dom요소에 직접 접근하여 값을 읽거나 조작합니다. 상대적으로 ==간단한 입력폼==등에서 사용됩니다.
+비제어형 컴포넌트는 state가 아닌 Dom 으로 입력값을 제어합니다. 그렇기 때문에 이는 리액트가 제어하지 않습니다. useRef를 통해 참조 객체 ref를 사용해서 dom요소에 직접 접근하여 값을 읽거나 조작합니다. 상대적으로 `간단한 입력폼`등에서 사용됩니다.
 
 

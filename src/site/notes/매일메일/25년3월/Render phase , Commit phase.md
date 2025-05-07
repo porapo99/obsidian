@@ -1,5 +1,5 @@
 ---
-{"제목":"Render phase , Commit phase","날짜":"2025-03-21","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/Render phase , Commit phase/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:35.116+09:00"}
+{"제목":"Render phase , Commit phase","날짜":"2025-03-21","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/Render phase , Commit phase/","dgPassFrontmatter":true,"updated":"2025-05-08T04:41:37.941+09:00"}
 ---
 
 ## ❓질문
@@ -18,11 +18,11 @@
 ---
 ## 🏫 정리한 내용
 
-render 페이즈 : 상태나 props의 변화로 어떤 UI가 변경되어야하는지 Fiber tree를 순회하여 체크를 함 이 과정은 실제 DOM에서 일어나지않고 가상 DOM에서 일어납니다. 
+`render 페이즈` : 상태나 props의 변화로 어떤 UI가 변경되어야하는지 Fiber tree를 순회하여 체크를 함 이 과정은 실제 DOM에서 일어나지않고 가상 DOM에서 일어납니다. 
 이는 순수 계산 과정이므로 작업은 중단되거나 다시 실행가능합니다.
 Concurrent Mode를 통해 비동기 처리도 가능합니다.
 
-Commit 페이즈 : Fiber tree를 순회하면서 체크해둔 부분을 통해 실제 DOM과 가상DOM을 동기화하는 작업을 실행합니다. 업데이트할때 useEffact등 부과 효과를 진행합니다.
+`Commit 페이즈` : Fiber tree를 순회하면서 체크해둔 부분을 통해 실제 DOM과 가상DOM을 동기화하는 작업을 실행합니다. 업데이트할때 useEffact등 부과 효과를 진행합니다.
 
 특징으로는 단계적 진행과 병목 관리가 있습니다.
 
