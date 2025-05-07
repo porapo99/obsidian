@@ -1,5 +1,5 @@
 ---
-{"제목":"Type Aliases & readonly","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Type Aliases & readonly/","dgPassFrontmatter":true,"created":"2024-11-06T07:29:50.345+09:00","updated":"2025-04-11T22:08:20.811+09:00"}
+{"제목":"Type Aliases & readonly","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Type Aliases & readonly/","dgPassFrontmatter":true,"updated":"2025-04-11T22:08:20.811+09:00"}
 ---
 
 

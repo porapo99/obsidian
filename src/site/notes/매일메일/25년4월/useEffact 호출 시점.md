@@ -1,5 +1,5 @@
 ---
-{"제목":"useEffact 호출 시점","날짜":"2025-04-22","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년4월/useEffact 호출 시점/","dgPassFrontmatter":true,"created":"2025-04-25T06:55:27.283+09:00","updated":"2025-04-25T07:04:48.673+09:00"}
+{"제목":"useEffact 호출 시점","날짜":"2025-04-22","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년4월/useEffact 호출 시점/","dgPassFrontmatter":true,"updated":"2025-04-25T07:04:48.673+09:00"}
 ---
 
 ## ❓질문

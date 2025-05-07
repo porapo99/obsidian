@@ -1,5 +1,5 @@
 ---
-{"제목":"End To End Test","날짜":"2025-04-11","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년4월/End To End Test/","dgPassFrontmatter":true,"created":"2025-04-11T15:30:56.774+09:00","updated":"2025-04-28T08:36:25.038+09:00"}
+{"제목":"End To End Test","날짜":"2025-04-11","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년4월/End To End Test/","dgPassFrontmatter":true,"updated":"2025-04-28T08:36:25.038+09:00"}
 ---
 
 ## ❓질문

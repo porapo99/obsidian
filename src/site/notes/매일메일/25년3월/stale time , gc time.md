@@ -1,5 +1,5 @@
 ---
-{"제목":"stale time , gc time","날짜":"2025-03-11","tags":["매일메일","RQ","cache"],"dg-publish":true,"permalink":"/매일메일/25년3월/stale time , gc time/","dgPassFrontmatter":true,"created":"2025-03-31T00:58:05.706+09:00","updated":"2025-04-11T00:58:33.399+09:00"}
+{"제목":"stale time , gc time","날짜":"2025-03-11","tags":["매일메일","RQ","cache"],"dg-publish":true,"permalink":"/매일메일/25년3월/stale time , gc time/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:33.399+09:00"}
 ---
 
 ## ❓질문

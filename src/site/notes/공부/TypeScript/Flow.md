@@ -1,5 +1,5 @@
 ---
-{"제목":"Flow","tags":["TypeScript","Type"],"dg-publish":true,"permalink":"/공부/TypeScript/Flow/","dgPassFrontmatter":true,"created":"2025-04-29T12:36:42.360+09:00","updated":"2025-05-05T09:22:24.252+09:00"}
+{"제목":"Flow","tags":["TypeScript","Type"],"dg-publish":true,"permalink":"/공부/TypeScript/Flow/","dgPassFrontmatter":true,"updated":"2025-05-05T09:22:24.252+09:00"}
 ---
 
 

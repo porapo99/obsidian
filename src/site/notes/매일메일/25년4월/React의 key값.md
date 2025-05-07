@@ -1,5 +1,5 @@
 ---
-{"제목":"리액트의 key값","날짜":"2025-04-08","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년4월/React의 key값/","dgPassFrontmatter":true,"created":"2025-04-08T23:28:39.195+09:00","updated":"2025-04-28T12:03:35.907+09:00"}
+{"제목":"리액트의 key값","날짜":"2025-04-08","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년4월/React의 key값/","dgPassFrontmatter":true,"updated":"2025-04-28T12:03:35.907+09:00"}
 ---
 
 # ❓질문

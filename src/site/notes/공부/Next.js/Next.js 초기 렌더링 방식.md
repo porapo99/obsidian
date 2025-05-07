@@ -1,5 +1,5 @@
 ---
-{"제목":"Next.js 초기 렌더링 방식","tags":["NextJS"],"dg-publish":true,"permalink":"/공부/Next.js/Next.js 초기 렌더링 방식/","dgPassFrontmatter":true,"created":"2025-04-28T14:58:53.593+09:00","updated":"2025-04-28T15:57:29.973+09:00"}
+{"제목":"Next.js 초기 렌더링 방식","tags":["NextJS"],"dg-publish":true,"permalink":"/공부/Next.js/Next.js 초기 렌더링 방식/","dgPassFrontmatter":true,"updated":"2025-04-28T15:57:29.973+09:00"}
 ---
 
 

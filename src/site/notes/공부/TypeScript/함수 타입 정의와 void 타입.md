@@ -1,5 +1,5 @@
 ---
-{"제목":"함수 타입 정의와 void 타입","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/함수 타입 정의와 void 타입/","dgPassFrontmatter":true,"created":"2025-03-21T23:33:55.522+09:00","updated":"2025-04-12T00:05:30.547+09:00"}
+{"제목":"함수 타입 정의와 void 타입","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/함수 타입 정의와 void 타입/","dgPassFrontmatter":true,"updated":"2025-04-12T00:05:30.547+09:00"}
 ---
 
 ```ts

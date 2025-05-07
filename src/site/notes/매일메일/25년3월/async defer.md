@@ -1,5 +1,5 @@
 ---
-{"제목":"async defer","날짜":"2025-03-27","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/async defer/","dgPassFrontmatter":true,"created":"2025-03-31T01:09:28.057+09:00","updated":"2025-04-11T00:58:52.233+09:00"}
+{"제목":"async defer","날짜":"2025-03-27","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/async defer/","dgPassFrontmatter":true,"updated":"2025-04-11T00:58:52.233+09:00"}
 ---
 
 ## ❓질문

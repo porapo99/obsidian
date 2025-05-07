@@ -1,5 +1,5 @@
 ---
-{"제목":"resolve()와 fulfilled","날짜":"2025-04-28","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/resolve()와 fulfilled/","dgPassFrontmatter":true,"created":"2025-04-28T08:15:19.797+09:00","updated":"2025-04-28T08:29:36.496+09:00"}
+{"제목":"resolve()와 fulfilled","날짜":"2025-04-28","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/resolve()와 fulfilled/","dgPassFrontmatter":true,"updated":"2025-04-28T08:29:36.496+09:00"}
 ---
 
 ## ❓질문

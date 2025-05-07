@@ -1,5 +1,5 @@
 ---
-{"제목":"함수 정의","tags":["JavaScript","function"],"dg-publish":true,"permalink":"/공부/JavaScript/function Define/","dgPassFrontmatter":true,"created":"2025-03-21T23:33:07.829+09:00","updated":"2025-04-11T22:05:04.770+09:00"}
+{"제목":"함수 정의","tags":["JavaScript","function"],"dg-publish":true,"permalink":"/공부/JavaScript/function Define/","dgPassFrontmatter":true,"updated":"2025-04-11T22:05:04.770+09:00"}
 ---
 
 자바스크립트에서 함수를 정의 하는 방법에는

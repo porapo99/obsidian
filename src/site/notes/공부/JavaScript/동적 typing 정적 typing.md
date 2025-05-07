@@ -1,5 +1,5 @@
 ---
-{"제목":"동적 언어와 정적 언어","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/동적 typing 정적 typing/","dgPassFrontmatter":true,"created":"2025-03-21T12:03:28.109+09:00","updated":"2025-04-21T10:22:01.642+09:00"}
+{"제목":"동적 언어와 정적 언어","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/동적 typing 정적 typing/","dgPassFrontmatter":true,"updated":"2025-04-21T10:22:01.642+09:00"}
 ---
 
 자바스크립트의 변수는  데이터 타입을 가지지않는다.

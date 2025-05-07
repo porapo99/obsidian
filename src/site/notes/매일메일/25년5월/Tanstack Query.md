@@ -1,5 +1,5 @@
 ---
-{"제목":"Tanstack Query","날짜":"2025-05-07","tags":["매일메일","state"],"dg-publish":true,"permalink":"/매일메일/25년5월/Tanstack Query/","dgPassFrontmatter":true,"created":"2025-05-07T11:43:25.189+09:00","updated":"2025-05-07T12:08:26.791+09:00"}
+{"제목":"Tanstack Query","날짜":"2025-05-07","tags":["매일메일","state"],"dg-publish":true,"permalink":"/매일메일/25년5월/Tanstack Query/","dgPassFrontmatter":true,"updated":"2025-05-07T12:08:26.791+09:00"}
 ---
 
 ## ❓질문

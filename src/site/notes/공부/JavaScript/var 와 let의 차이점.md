@@ -1,5 +1,5 @@
 ---
-{"제목":"var 와 let의 차이점","tags":["JavaScript","variable"],"dg-publish":true,"permalink":"/공부/JavaScript/var 와 let의 차이점/","dgPassFrontmatter":true,"created":"2025-03-21T12:10:39.251+09:00","updated":"2025-04-29T16:23:40.137+09:00"}
+{"제목":"var 와 let의 차이점","tags":["JavaScript","variable"],"dg-publish":true,"permalink":"/공부/JavaScript/var 와 let의 차이점/","dgPassFrontmatter":true,"updated":"2025-04-29T16:23:40.137+09:00"}
 ---
 
 var 키워드의 단점을 보완하기 위해서 ES6에서 새로운 변수 선언 키워드인 let과 const가 추가 되었다.
