@@ -1,5 +1,5 @@
 ---
-{"제목":"Liternal types & as const","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Liternal types & as const/","dgPassFrontmatter":true,"updated":"2025-04-21T10:15:41.038+09:00"}
+{"제목":"Liternal types & as const","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Liternal types & as const/","dgPassFrontmatter":true,"created":"2025-03-21T23:38:05.692+09:00","updated":"2025-04-21T10:15:41.038+09:00"}
 ---
 
 

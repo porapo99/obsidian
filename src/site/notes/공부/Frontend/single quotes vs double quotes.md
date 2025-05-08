@@ -1,5 +1,5 @@
 ---
-{"제목":"single quotes vs double quotes","tags":["Frontend","React","JavaScript","HTML"],"dg-publish":true,"permalink":"/공부/Frontend/single quotes vs double quotes/","dgPassFrontmatter":true,"updated":"2025-04-21T10:21:33.908+09:00"}
+{"제목":"single quotes vs double quotes","tags":["Frontend","React","JavaScript","HTML"],"dg-publish":true,"permalink":"/공부/Frontend/single quotes vs double quotes/","dgPassFrontmatter":true,"created":"2024-10-02T01:10:20.712+09:00","updated":"2025-04-21T10:21:33.908+09:00"}
 ---
 
 ```tsx

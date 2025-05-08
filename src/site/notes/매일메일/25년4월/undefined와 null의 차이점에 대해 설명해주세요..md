@@ -1,5 +1,5 @@
 ---
-{"제목":"undefined와 null의 차이점에 대해 설명해주세요.","날짜":"2025-04-21","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/undefined와 null의 차이점에 대해 설명해주세요./","dgPassFrontmatter":true,"updated":"2025-04-25T07:04:59.089+09:00"}
+{"제목":"undefined와 null의 차이점에 대해 설명해주세요.","날짜":"2025-04-21","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/undefined와 null의 차이점에 대해 설명해주세요./","dgPassFrontmatter":true,"created":"2025-04-24T01:48:49.932+09:00","updated":"2025-04-25T07:04:59.089+09:00"}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"Promise","날짜":"2025-04-23","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년4월/Promise/","dgPassFrontmatter":true,"updated":"2025-04-25T07:16:06.784+09:00"}
+{"제목":"Promise","날짜":"2025-04-23","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년4월/Promise/","dgPassFrontmatter":true,"created":"2025-04-25T07:05:14.983+09:00","updated":"2025-04-25T07:16:06.784+09:00"}
 ---
 
 ## ❓질문

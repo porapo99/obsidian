@@ -1,5 +1,5 @@
 ---
-{"제목":"Controlled Component와 Uncontrolled Component","날짜":"2025-03-14","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/Controlled Component와 Uncontrolled Component/","dgPassFrontmatter":true,"updated":"2025-05-08T04:39:18.476+09:00"}
+{"제목":"Controlled Component와 Uncontrolled Component","날짜":"2025-03-14","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년3월/Controlled Component와 Uncontrolled Component/","dgPassFrontmatter":true,"created":"2025-03-31T01:16:34.126+09:00","updated":"2025-05-08T04:39:18.476+09:00"}
 ---
 
 ## ❓질문

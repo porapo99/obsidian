@@ -1,5 +1,5 @@
 ---
-{"제목":"JIT 컴파일러","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/Frontend/JIT 컴파일러/","dgPassFrontmatter":true,"updated":"2025-05-04T19:59:27.819+09:00"}
+{"제목":"JIT 컴파일러","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/Frontend/JIT 컴파일러/","dgPassFrontmatter":true,"created":"2025-04-29T16:05:35.296+09:00","updated":"2025-05-04T19:59:27.819+09:00"}
 ---
 
 부트캠프때 자바스크립트라는 언어를 배울때 자바스크립트는 `인터프리터` 언어이다 라고 배웠던 기억이 있다.

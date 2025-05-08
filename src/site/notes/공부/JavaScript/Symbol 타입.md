@@ -1,5 +1,5 @@
 ---
-{"제목":"심벌 타입","tags":["JavaScript","타입"],"dg-publish":true,"permalink":"/공부/JavaScript/Symbol 타입/","dgPassFrontmatter":true,"updated":"2025-04-11T22:05:20.883+09:00"}
+{"제목":"심벌 타입","tags":["JavaScript","타입"],"dg-publish":true,"permalink":"/공부/JavaScript/Symbol 타입/","dgPassFrontmatter":true,"created":"2025-03-21T12:02:58.295+09:00","updated":"2025-04-11T22:05:20.883+09:00"}
 ---
 
 ```js

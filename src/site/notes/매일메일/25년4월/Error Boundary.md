@@ -1,5 +1,5 @@
 ---
-{"제목":"Error Boundary","날짜":"2025-04-29","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년4월/Error Boundary/","dgPassFrontmatter":true,"updated":"2025-04-29T14:15:27.495+09:00"}
+{"제목":"Error Boundary","날짜":"2025-04-29","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년4월/Error Boundary/","dgPassFrontmatter":true,"created":"2025-04-29T13:55:27.610+09:00","updated":"2025-04-29T14:15:27.495+09:00"}
 ---
 
 ## ❓질문

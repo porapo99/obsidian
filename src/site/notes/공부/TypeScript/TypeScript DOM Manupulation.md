@@ -1,5 +1,5 @@
 ---
-{"제목":"TypeScript DOM Manupulation","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/TypeScript DOM Manupulation/","dgPassFrontmatter":true,"updated":"2025-04-21T10:16:37.595+09:00"}
+{"제목":"TypeScript DOM Manupulation","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/TypeScript DOM Manupulation/","dgPassFrontmatter":true,"created":"2024-11-07T00:57:25.410+09:00","updated":"2025-04-21T10:16:37.595+09:00"}
 ---
 
 

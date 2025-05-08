@@ -1,5 +1,5 @@
 ---
-{"제목":"SSR","날짜":"2025-04-9","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년4월/SSR/","dgPassFrontmatter":true,"updated":"2025-04-28T08:36:46.572+09:00"}
+{"제목":"SSR","날짜":"2025-04-9","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년4월/SSR/","dgPassFrontmatter":true,"created":"2025-04-11T01:27:23.334+09:00","updated":"2025-04-28T08:36:46.572+09:00"}
 ---
 
 ## ❓질문

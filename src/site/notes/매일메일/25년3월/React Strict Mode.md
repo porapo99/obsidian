@@ -1,5 +1,5 @@
 ---
-{"제목":"React Strict Mode","날짜":"2025-03-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년3월/React Strict Mode/","dgPassFrontmatter":true,"updated":"2025-05-08T04:41:04.736+09:00"}
+{"제목":"React Strict Mode","날짜":"2025-03-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년3월/React Strict Mode/","dgPassFrontmatter":true,"created":"2025-03-31T01:14:03.611+09:00","updated":"2025-05-08T04:41:04.736+09:00"}
 ---
 
 ## ❓질문

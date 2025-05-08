@@ -1,5 +1,5 @@
 ---
-{"제목":"자바스크립트에 배열","날짜":"2025-03-25","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/JS Array/","dgPassFrontmatter":true,"updated":"2025-05-08T04:40:16.780+09:00"}
+{"제목":"자바스크립트에 배열","날짜":"2025-03-25","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/JS Array/","dgPassFrontmatter":true,"created":"2025-03-31T01:12:16.776+09:00","updated":"2025-05-08T04:40:16.780+09:00"}
 ---
 
 ## ❓질문

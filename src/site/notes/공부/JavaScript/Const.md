@@ -1,5 +1,5 @@
 ---
-{"제목":"Const","tags":["function","variable"],"dg-publish":true,"permalink":"/공부/JavaScript/Const/","dgPassFrontmatter":true,"updated":"2025-04-11T22:04:56.055+09:00"}
+{"제목":"Const","tags":["function","variable"],"dg-publish":true,"permalink":"/공부/JavaScript/Const/","dgPassFrontmatter":true,"created":"2025-03-21T12:10:16.146+09:00","updated":"2025-04-11T22:04:56.055+09:00"}
 ---
 
 const 키워드는 ES6에 추가된 선언에 사용되는 키워드이며 상수를 선언하기 위해 사용된다.

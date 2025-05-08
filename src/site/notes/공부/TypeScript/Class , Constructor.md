@@ -1,5 +1,5 @@
 ---
-{"제목":"Class , Constructor","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Class , Constructor/","dgPassFrontmatter":true,"updated":"2025-04-11T22:08:15.597+09:00"}
+{"제목":"Class , Constructor","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Class , Constructor/","dgPassFrontmatter":true,"created":"2025-03-21T23:36:45.643+09:00","updated":"2025-04-11T22:08:15.597+09:00"}
 ---
 
 

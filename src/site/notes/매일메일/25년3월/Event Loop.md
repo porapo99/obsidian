@@ -1,5 +1,5 @@
 ---
-{"제목":"Event Loop","날짜":"2025-03-12","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/Event Loop/","dgPassFrontmatter":true,"updated":"2025-05-08T04:39:37.349+09:00"}
+{"제목":"Event Loop","날짜":"2025-03-12","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/Event Loop/","dgPassFrontmatter":true,"created":"2025-03-31T01:18:01.636+09:00","updated":"2025-05-08T04:39:37.349+09:00"}
 ---
 
 ## ❓질문

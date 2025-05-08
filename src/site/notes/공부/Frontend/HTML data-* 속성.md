@@ -1,5 +1,5 @@
 ---
-{"제목":"HTML data-* 속성","tags":["Frontend"],"dg-publish":true,"permalink":"/공부/Frontend/HTML data-* 속성/","dgPassFrontmatter":true,"updated":"2025-05-04T20:23:13.408+09:00"}
+{"제목":"HTML data-* 속성","tags":["Frontend"],"dg-publish":true,"permalink":"/공부/Frontend/HTML data-* 속성/","dgPassFrontmatter":true,"created":"2025-04-29T16:19:20.837+09:00","updated":"2025-05-04T20:23:13.408+09:00"}
 ---
 
 `data-*` 속성은 표준이 아닌 속성이나 추가적인 DOM 속성과 같은 다른 조작을 하지않고, 의미론적 표준 HTML 요소에 추가 정보를 저장할 수 있게 도와주는 속성입니다.

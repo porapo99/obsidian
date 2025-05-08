@@ -1,5 +1,5 @@
 ---
-{"제목":"async와 await","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/async와 await/","dgPassFrontmatter":true,"updated":"2025-04-29T16:00:10.898+09:00"}
+{"제목":"async와 await","tags":["JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/async와 await/","dgPassFrontmatter":true,"created":"2025-04-29T12:29:17.746+09:00","updated":"2025-04-29T16:00:10.898+09:00"}
 ---
 
 먼저 `async`와 `await`을 알아보기 전에 `Promise`에 대해 설명해보자면, `Promise`는 비동기 함수의 결과를 담고 있는 객체라고 할 수 있습니다. 그리고 대기 상태에서 성공이나 실패의 상태로 변경됐을 때 `then()`이나 `catch()` 함수를 사용해서 각각 처리할 수 있게 해줍니다.

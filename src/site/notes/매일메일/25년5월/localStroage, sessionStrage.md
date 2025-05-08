@@ -1,5 +1,5 @@
 ---
-{"제목":"localStroage, sessionStrage","날짜":"2025-05-06","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/localStroage, sessionStrage/","dgPassFrontmatter":true,"updated":"2025-05-07T12:08:43.983+09:00"}
+{"제목":"localStroage, sessionStrage","날짜":"2025-05-06","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/localStroage, sessionStrage/","dgPassFrontmatter":true,"created":"2025-05-07T11:36:14.246+09:00","updated":"2025-05-07T12:08:43.983+09:00"}
 ---
 
 ## ❓질문

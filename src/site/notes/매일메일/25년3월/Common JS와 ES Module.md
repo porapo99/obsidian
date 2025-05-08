@@ -1,5 +1,5 @@
 ---
-{"제목":"Common JS와 ES Module","날짜":"2025-03-28","tags":["매일메일","Module","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/Common JS와 ES Module/","dgPassFrontmatter":true,"updated":"2025-05-08T04:38:48.026+09:00"}
+{"제목":"Common JS와 ES Module","날짜":"2025-03-28","tags":["매일메일","Module","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년3월/Common JS와 ES Module/","dgPassFrontmatter":true,"created":"2025-03-31T00:53:00.939+09:00","updated":"2025-05-08T04:38:48.026+09:00"}
 ---
 
 ## ❓질문

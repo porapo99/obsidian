@@ -1,5 +1,5 @@
 ---
-{"제목":"불필요한 Props 복사 및 연산 X","tags":["React","Props"],"dg-publish":true,"permalink":"/공부/React/불필요한 Props 복사 및 연산 X/","dgPassFrontmatter":true,"updated":"2025-04-21T10:12:48.349+09:00"}
+{"제목":"불필요한 Props 복사 및 연산 X","tags":["React","Props"],"dg-publish":true,"permalink":"/공부/React/불필요한 Props 복사 및 연산 X/","dgPassFrontmatter":true,"created":"2024-09-29T18:11:12.365+09:00","updated":"2025-04-21T10:12:48.349+09:00"}
 ---
 
 

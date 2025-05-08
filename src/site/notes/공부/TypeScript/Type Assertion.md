@@ -1,5 +1,5 @@
 ---
-{"제목":"Type Assertion","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Type Assertion/","dgPassFrontmatter":true,"updated":"2025-04-11T22:08:22.848+09:00"}
+{"제목":"Type Assertion","tags":["TypeScript"],"dg-publish":true,"permalink":"/공부/TypeScript/Type Assertion/","dgPassFrontmatter":true,"created":"2024-11-06T07:25:27.678+09:00","updated":"2025-04-11T22:08:22.848+09:00"}
 ---
 
 ```ts
