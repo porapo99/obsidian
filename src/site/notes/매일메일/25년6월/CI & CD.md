@@ -1,5 +1,5 @@
 ---
-{"제목":"CI & CD","날짜":"2025-06-12","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/CI & CD/","dgPassFrontmatter":true,"created":"2025-06-11T20:48:45.615+09:00","updated":"2025-06-12T02:46:20.168+09:00"}
+{"제목":"CI & CD","날짜":"2025-06-11","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/CI & CD/","dgPassFrontmatter":true,"created":"2025-06-11T20:48:45.615+09:00","updated":"2025-06-12T02:46:52.190+09:00"}
 ---
 
 ## ❓질문
