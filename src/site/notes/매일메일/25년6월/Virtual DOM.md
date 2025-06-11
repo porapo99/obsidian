@@ -1,8 +1,8 @@
 ---
-{"제목":"Virtual DOM","날짜":"2025-06-10","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년6월/Virtual DOM/","dgPassFrontmatter":true,"created":"2025-06-10T23:11:11.673+09:00","updated":"2025-06-10T23:15:40.797+09:00"}
+{"제목":"Virtual DOM","날짜":"2025-06-10","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년6월/Virtual DOM/","dgPassFrontmatter":true,"created":"2025-06-10T23:11:11.673+09:00","updated":"2025-06-11T05:50:24.326+09:00"}
 ---
 
-## ❓질문
+ ## ❓질문
 
 Virtual DOM에 대해서 설명해주세요.
 
