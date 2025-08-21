@@ -1,5 +1,5 @@
 ---
-{"제목":"dependency","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/dependency/","dgPassFrontmatter":true,"created":"2025-08-15T16:08:14.461+09:00","updated":"2025-08-15T16:16:55.374+09:00"}
+{"제목":"dependency","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/dependency/","dgPassFrontmatter":true,"created":"2025-08-15T16:08:14.461+09:00","updated":"2025-08-21T17:33:37.427+09:00"}
 ---
 
 ## ❓질문
@@ -15,7 +15,7 @@ dependency, devDependency, peerDependency에 대해서 설명해주세요.
 
 두번째로는 `devDependency`입니다 이 유형은 개발에서만 이 패키지를 사용하겠다는 뜻입니다. 예를 들어 `@tanstack/react-query-devtools`를 예로 들 수 있을것같습니다 tanstack query는 api 통신후 캐싱전략을 도와주는 라이브러리입니다 그리고 예로든 devtools에는 api통신후 이게 프레시한 정보인지 캐싱은 어떻게 되고있는지 정상적으로 호출됐는지 개발자에게 편리함을 주는 라이브러리입니다.
 
-그러나 이런 개발에만 유용한 라이브러리를 굳이 프로덕션단계에 들고가게된다면 사용자에게 불필요한 정보를 노출할 수 도있고 용량만 차지하게 되니 어플리케이션은 상대적으로 느려질것입니다, 이러한 라이브러리들은 `devDependency`에 넣게되면 빌드때 해당 패키지는 따로 import해서 사용하지않는 다면 제외되어 빌드됩니다.
+그러나 이런 개발에만 유용한 라이브러리를 굳이 프로덕션단계에 들고가게된다면 사용자에게 불필요한 정보를 노출할 수도 있고 용량만 차지하게 되니 어플리케이션은 상대적으로 느려질것입니다, 이러한 라이브러리들은 `devDependency`에 넣게되면 빌드때 해당 패키지는 따로 import해서 사용하지않는 다면 제외되어 빌드됩니다.
 
 마지막 peerDependency에 대해서는 잘 모르겠습니다.
 

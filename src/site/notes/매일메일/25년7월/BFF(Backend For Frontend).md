@@ -1,5 +1,5 @@
 ---
-{"제목":"BFF(Backend For Frontend)","날짜":"2025-07-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/BFF(Backend For Frontend)/","dgPassFrontmatter":true,"created":"2025-07-16T04:05:44.585+09:00","updated":"2025-07-16T04:19:19.191+09:00"}
+{"제목":"BFF(Backend For Frontend)","날짜":"2025-07-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/BFF(Backend For Frontend)/","dgPassFrontmatter":true,"created":"2025-07-16T04:05:44.585+09:00","updated":"2025-08-21T17:34:26.999+09:00"}
 ---
 
 ## ❓질문
@@ -16,6 +16,6 @@ BFF란 프론트엔드를 위한 보조서버의 역할을 만드는 설계를 �
 ---
 ## 🏫 정리한 내용
 
-MSA 환경에서 받는 여러 API를 조합하여 프론트단으로 보내주는 역할을 할 수 도있습니다.
+MSA 환경에서 받는 여러 API를 조합하여 프론트단으로 보내주는 역할을 할 수도 있습니다.
 프론트엔드에서 여러개의 API를 받아서 조합할 경우 부하가 생길 확률이 높습니다.
 그러나 BFF 서버를 만들고 로드 밸런서 설정후 여러 인스턴스로 확장한다면 부하를 덜 받을 수 있고 캐싱된 데이터를 활용해 부담을 줄일 수도 있습니다.

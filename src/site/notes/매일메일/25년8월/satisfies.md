@@ -1,5 +1,5 @@
 ---
-{"제목":"satisfies","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/satisfies/","dgPassFrontmatter":true,"created":"2025-08-15T00:35:04.143+09:00","updated":"2025-08-15T16:20:51.090+09:00"}
+{"제목":"satisfies","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/satisfies/","dgPassFrontmatter":true,"created":"2025-08-15T00:35:04.143+09:00","updated":"2025-08-21T17:34:58.490+09:00"}
 ---
 
 ## ❓질문
@@ -46,5 +46,5 @@ const palette = {
 const greenNormalized = palette.green.toUpperCase(); // 정상 동작
 ```
 
-하지만 위와 같이 satisfies 를 활용하면 타입이 string 으로 추론되어 정상적으로 호출할 수 있습니다. 즉 의도보다 더 넓은 타입으로 추론되는 일을 방지하며 타입 검사를 수행 할 수 있습니다.
+하지만 위와 같이 satisfies 를 활용하면 타입이 string 으로 추론되어 정상적으로 호출할 수 있습니다. 즉 의도보다 더 넓은 타입으로 추론되는 일을 방지하며 타입 검사를 수행할 수 있습니다.
 

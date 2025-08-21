@@ -1,5 +1,5 @@
 ---
-{"제목":"Steaming SSR","날짜":"2025-05-15","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/Steaming SSR/","dgPassFrontmatter":true,"created":"2025-05-15T20:49:27.507+09:00","updated":"2025-05-18T21:57:55.181+09:00"}
+{"제목":"Steaming SSR","날짜":"2025-05-15","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/Steaming SSR/","dgPassFrontmatter":true,"created":"2025-05-15T20:49:27.507+09:00","updated":"2025-08-21T17:33:53.541+09:00"}
 ---
 
 ## ❓질문
@@ -23,4 +23,4 @@ Steaming SSR에 관하여 설명해주세요.
 React 18에서는 `renderToPipeableStream API`를 통해 구현할 수 있으며 이 API는 서버에서 HTMl을 조각 단위로 스트리밍할 수 있도록 지원합니다. 
 
 스트리밍된 데이터와 리액트의 hydration과정에서 발생할 수 있는 문제도 있습니다.
-렌더링 되는 HTML과 리액트 상태 불일치로 에러가 발생할 수 도있습니다. 이때문에 텐스택 쿼리 같은 라이브러리를 활용하여 데이터를 신뢰성있게 동기화 시키는게 좋습니다.
+렌더링 되는 HTML과 리액트 상태 불일치로 에러가 발생할 수도 있습니다. 이때문에 텐스택 쿼리 같은 라이브러리를 활용하여 데이터를 신뢰성있게 동기화 시키는게 좋습니다.

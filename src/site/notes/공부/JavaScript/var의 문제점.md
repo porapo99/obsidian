@@ -1,5 +1,5 @@
 ---
-{"제목":"var의 문제점","tags":["function","JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/var의 문제점/","dgPassFrontmatter":true,"created":"2025-03-21T12:11:54.842+09:00","updated":"2025-04-29T16:23:41.610+09:00"}
+{"제목":"var의 문제점","tags":["function","JavaScript"],"dg-publish":true,"permalink":"/공부/JavaScript/var의 문제점/","dgPassFrontmatter":true,"created":"2025-03-21T12:11:54.842+09:00","updated":"2025-08-21T17:34:20.530+09:00"}
 ---
 
 변수 선언에 사용되는 var에 문제점에 대해 설명드리겠습니다.
@@ -21,4 +21,4 @@ var 키워드에는 이러한 특징이 있습니다.
 이 특성때문에 안에있는 코드블럭내에서 의도치않는 값의 변경이 일어날 수 있습니다
 
 var로 선언한 변수는 선언과 동시에 undefined로 초기화 되며 런타임때 스코프에 등록 되기때문에 실제 값이 할당 되지 않더라도 undefined를 갖고있다.
-이때문에 의도치않은 값을 낼일이 있을 수 도있다.
+이때문에 의도치않은 값을 낼일이 있을 수도 있다.
