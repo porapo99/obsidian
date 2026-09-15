@@ -1,5 +1,5 @@
 ---
-{"제목":"stale-while-revalidate","날짜":"2025-09-02","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/stale-while-revalidate/","dgPassFrontmatter":true,"created":"2025-09-02T23:22:33.673+09:00","updated":"2025-09-02T23:48:56.195+09:00"}
+{"제목":"stale-while-revalidate","날짜":"2025-09-02","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/stale-while-revalidate/","dgPassFrontmatter":true,"created":"2025-09-02T23:22:33.000+09:00","updated":"2025-09-02T23:48:56.000+09:00","dg-note-properties":{"제목":"stale-while-revalidate","날짜":"2025-09-02","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"Taskify 회고","날짜":"2025-04-28","tags":["Project"],"dg-publish":true,"permalink":"/프로젝트/Taskify 회고/","dgPassFrontmatter":true,"created":"2025-04-28T14:13:00.299+09:00","updated":"2025-05-09T12:35:06.598+09:00"}
+{"제목":"Taskify 회고","날짜":"2025-04-28","tags":["Project"],"dg-publish":true,"permalink":"/프로젝트/Taskify 회고/","dgPassFrontmatter":true,"created":"2025-04-28T14:13:00.000+09:00","updated":"2025-05-09T12:35:06.000+09:00","dg-note-properties":{"제목":"Taskify 회고","날짜":"2025-04-28","tags":["Project"]}}
 ---
 
 ## 🏆 프로젝트 목표 

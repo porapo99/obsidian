@@ -1,5 +1,5 @@
 ---
-{"제목":"currying","날짜":"2025-09-02","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/currying/","dgPassFrontmatter":true,"created":"2025-09-02T23:48:57.988+09:00","updated":"2025-09-09T02:52:54.027+09:00"}
+{"제목":"currying","날짜":"2025-09-02","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/currying/","dgPassFrontmatter":true,"created":"2025-09-02T23:48:57.000+09:00","updated":"2025-09-09T02:52:54.000+09:00","dg-note-properties":{"제목":"currying","날짜":"2025-09-02","tags":["매일메일"]}}
 ---
 
 ## ❓질문

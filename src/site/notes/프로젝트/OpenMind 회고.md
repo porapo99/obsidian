@@ -1,5 +1,5 @@
 ---
-{"제목":"\bOpenMind 회고","날짜":"2025-04-03","tags":["Project"],"dg-publish":true,"permalink":"/프로젝트/OpenMind 회고/","dgPassFrontmatter":true,"created":"2025-04-03T02:20:22.013+09:00","updated":"2025-05-09T12:35:04.970+09:00"}
+{"제목":"\bOpenMind 회고","날짜":"2025-04-03","tags":["Project"],"dg-publish":true,"permalink":"/프로젝트/OpenMind 회고/","dgPassFrontmatter":true,"created":"2025-04-03T02:20:22.000+09:00","updated":"2025-05-09T12:35:04.000+09:00","dg-note-properties":{"제목":"\bOpenMind 회고","날짜":"2025-04-03","tags":["Project"]}}
 ---
 
 # 🏆 프로젝트 목표 

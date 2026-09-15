@@ -1,5 +1,5 @@
 ---
-{"제목":"satisfies","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/satisfies/","dgPassFrontmatter":true,"created":"2025-08-15T00:35:04.143+09:00","updated":"2025-08-21T17:34:58.490+09:00"}
+{"제목":"satisfies","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/satisfies/","dgPassFrontmatter":true,"created":"2025-08-15T00:35:04.000+09:00","updated":"2025-08-21T17:34:58.000+09:00","dg-note-properties":{"제목":"satisfies","날짜":"2025-08-15","tags":["매일메일"]}}
 ---
 
 ## ❓질문

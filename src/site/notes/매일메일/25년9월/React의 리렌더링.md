@@ -1,5 +1,5 @@
 ---
-{"제목":"React의 리렌더링","날짜":"2025-09-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/React의 리렌더링/","dgPassFrontmatter":true,"created":"2025-09-20T01:10:02.066+09:00","updated":"2025-09-20T01:12:05.568+09:00"}
+{"제목":"React의 리렌더링","날짜":"2025-09-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/React의 리렌더링/","dgPassFrontmatter":true,"created":"2025-09-20T01:10:02.000+09:00","updated":"2025-09-20T01:12:05.000+09:00","dg-note-properties":{"제목":"React의 리렌더링","날짜":"2025-09-20","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"Storybook","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/Storybook/","dgPassFrontmatter":true,"created":"2025-08-15T16:17:31.804+09:00","updated":"2025-08-15T16:20:47.908+09:00"}
+{"제목":"Storybook","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/Storybook/","dgPassFrontmatter":true,"created":"2025-08-15T16:17:31.000+09:00","updated":"2025-08-15T16:20:47.000+09:00","dg-note-properties":{"제목":"Storybook","날짜":"2025-08-15","tags":["매일메일"]}}
 ---
 
 ## ❓질문

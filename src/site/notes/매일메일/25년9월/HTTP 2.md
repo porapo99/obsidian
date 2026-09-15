@@ -1,5 +1,5 @@
 ---
-{"제목":"HTTP 2","날짜":"2025-09-03","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/HTTP 2/","dgPassFrontmatter":true,"created":"2025-09-03T21:12:34.635+09:00","updated":"2025-09-09T03:02:22.805+09:00"}
+{"제목":"HTTP 2","날짜":"2025-09-03","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/HTTP 2/","dgPassFrontmatter":true,"created":"2025-09-03T21:12:34.000+09:00","updated":"2025-09-09T03:02:22.000+09:00","dg-note-properties":{"제목":"HTTP 2","날짜":"2025-09-03","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"OSI 7계층","날짜":"2025-08-25","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/OSI 7계층/","dgPassFrontmatter":true,"created":"2025-08-25T14:04:05.608+09:00","updated":"2025-08-28T02:46:30.150+09:00"}
+{"제목":"OSI 7계층","날짜":"2025-08-25","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/OSI 7계층/","dgPassFrontmatter":true,"created":"2025-08-25T14:04:05.000+09:00","updated":"2025-08-28T02:46:30.000+09:00","dg-note-properties":{"제목":"OSI 7계층","날짜":"2025-08-25","tags":["매일메일"]}}
 ---
 
 ## ❓질문

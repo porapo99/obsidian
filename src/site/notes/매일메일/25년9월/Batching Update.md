@@ -1,5 +1,5 @@
 ---
-{"제목":"Batching Update","날짜":"2025-09-17","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/Batching Update/","dgPassFrontmatter":true,"created":"2025-09-17T05:46:18.012+09:00","updated":"2025-09-17T05:55:19.181+09:00"}
+{"제목":"Batching Update","날짜":"2025-09-17","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/Batching Update/","dgPassFrontmatter":true,"created":"2025-09-17T05:46:18.000+09:00","updated":"2025-09-17T05:55:19.000+09:00","dg-note-properties":{"제목":"Batching Update","날짜":"2025-09-17","tags":["매일메일"]}}
 ---
 
 ## ❓질문

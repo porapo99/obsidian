@@ -1,5 +1,5 @@
 ---
-{"제목":"Progressive Partial Rendering","날짜":"2025-09-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/Progressive Partial Rendering/","dgPassFrontmatter":true,"created":"2025-09-09T02:37:29.629+09:00","updated":"2025-09-09T20:15:02.649+09:00"}
+{"제목":"Progressive Partial Rendering","날짜":"2025-09-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/Progressive Partial Rendering/","dgPassFrontmatter":true,"created":"2025-09-09T02:37:29.000+09:00","updated":"2025-09-09T20:15:02.000+09:00","dg-note-properties":{"제목":"Progressive Partial Rendering","날짜":"2025-09-09","tags":["매일메일"]}}
 ---
 
 ## ❓질문

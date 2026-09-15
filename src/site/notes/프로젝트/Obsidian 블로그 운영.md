@@ -1,5 +1,5 @@
 ---
-{"제목":"Obsidian 블로그 운영","날짜":"2025-04-11","tags":["Project"],"dg-publish":true,"permalink":"/프로젝트/Obsidian 블로그 운영/","dgPassFrontmatter":true,"created":"2025-04-11T22:37:07.271+09:00","updated":"2025-04-28T12:12:19.514+09:00"}
+{"제목":"Obsidian 블로그 운영","날짜":"2025-04-11","tags":["Project"],"dg-publish":true,"permalink":"/프로젝트/Obsidian 블로그 운영/","dgPassFrontmatter":true,"created":"2025-04-11T22:37:07.000+09:00","updated":"2025-04-28T12:12:19.000+09:00","dg-note-properties":{"제목":"Obsidian 블로그 운영","날짜":"2025-04-11","tags":["Project"]}}
 ---
 
 ## 🏆 프로젝트 목표 

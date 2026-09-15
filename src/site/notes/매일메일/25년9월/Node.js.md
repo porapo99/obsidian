@@ -1,5 +1,5 @@
 ---
-{"제목":"Node.js","날짜":"2025-09-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/Node.js/","dgPassFrontmatter":true,"created":"2025-09-09T02:36:21.878+09:00","updated":"2025-09-09T03:21:10.387+09:00"}
+{"제목":"Node.js","날짜":"2025-09-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/Node.js/","dgPassFrontmatter":true,"created":"2025-09-09T02:36:21.000+09:00","updated":"2025-09-09T03:21:10.000+09:00","dg-note-properties":{"제목":"Node.js","날짜":"2025-09-09","tags":["매일메일"]}}
 ---
 
 ## ❓질문

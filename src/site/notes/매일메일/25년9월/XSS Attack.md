@@ -1,5 +1,5 @@
 ---
-{"제목":"XSS Attack","날짜":"2025-09-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/XSS Attack/","dgPassFrontmatter":true,"created":"2025-09-09T20:15:50.398+09:00","updated":"2025-09-09T20:35:39.334+09:00"}
+{"제목":"XSS Attack","날짜":"2025-09-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년9월/XSS Attack/","dgPassFrontmatter":true,"created":"2025-09-09T20:15:50.000+09:00","updated":"2025-09-09T20:35:39.000+09:00","dg-note-properties":{"제목":"XSS Attack","날짜":"2025-09-09","tags":["매일메일"]}}
 ---
 
 
