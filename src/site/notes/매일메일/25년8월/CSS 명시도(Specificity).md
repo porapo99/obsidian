@@ -1,5 +1,5 @@
 ---
-{"제목":"CSS 명시도(Specificity)","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/CSS 명시도(Specificity)/","dgPassFrontmatter":true,"created":"2025-08-15T15:55:53.905+09:00","updated":"2025-08-15T16:04:05.513+09:00"}
+{"제목":"CSS 명시도(Specificity)","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/CSS 명시도(Specificity)/","dgPassFrontmatter":true,"created":"2025-08-15T15:55:53.000+09:00","updated":"2025-08-15T16:04:05.000+09:00","dg-note-properties":{"제목":"CSS 명시도(Specificity)","날짜":"2025-08-15","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"변수 관리 useRef과 let 차이","날짜":"2025-07-23","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/변수 관리 useRef과 let 차이/","dgPassFrontmatter":true,"created":"2025-07-23T08:28:25.849+09:00","updated":"2025-07-23T08:42:36.876+09:00"}
+{"제목":"변수 관리 useRef과 let 차이","날짜":"2025-07-23","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/변수 관리 useRef과 let 차이/","dgPassFrontmatter":true,"created":"2025-07-23T08:28:25.000+09:00","updated":"2025-07-23T08:42:36.000+09:00","dg-note-properties":{"제목":"변수 관리 useRef과 let 차이","날짜":"2025-07-23","tags":["매일메일"]}}
 ---
 
 ## ❓질문

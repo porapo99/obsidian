@@ -1,5 +1,5 @@
 ---
-{"제목":"JSX","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/JSX/","dgPassFrontmatter":true,"created":"2025-08-15T00:27:02.496+09:00","updated":"2025-08-15T00:30:49.209+09:00"}
+{"제목":"JSX","날짜":"2025-08-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/JSX/","dgPassFrontmatter":true,"created":"2025-08-15T00:27:02.000+09:00","updated":"2025-08-15T00:30:49.000+09:00","dg-note-properties":{"제목":"JSX","날짜":"2025-08-15","tags":["매일메일"]}}
 ---
 
 ## ❓질문

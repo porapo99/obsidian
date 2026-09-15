@@ -1,5 +1,5 @@
 ---
-{"제목":"requestAnimationFrame","날짜":"2025-07-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/requestAnimationFrame/","dgPassFrontmatter":true,"created":"2025-07-09T14:54:33.077+09:00","updated":"2025-07-09T15:00:44.414+09:00"}
+{"제목":"requestAnimationFrame","날짜":"2025-07-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/requestAnimationFrame/","dgPassFrontmatter":true,"created":"2025-07-09T14:54:33.000+09:00","updated":"2025-07-09T15:00:44.000+09:00","dg-note-properties":{"제목":"requestAnimationFrame","날짜":"2025-07-09","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"ETag","날짜":"2025-08-28","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/ETag/","dgPassFrontmatter":true,"created":"2025-08-28T02:12:51.861+09:00","updated":"2025-08-28T02:37:05.528+09:00"}
+{"제목":"ETag","날짜":"2025-08-28","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/ETag/","dgPassFrontmatter":true,"created":"2025-08-28T02:12:51.000+09:00","updated":"2025-08-28T02:37:05.000+09:00","dg-note-properties":{"제목":"ETag","날짜":"2025-08-28","tags":["매일메일"]}}
 ---
 
 ## ❓질문

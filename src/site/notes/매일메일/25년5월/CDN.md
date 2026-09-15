@@ -1,5 +1,5 @@
 ---
-{"제목":"CDN","날짜":"2025-05-27","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/CDN/","dgPassFrontmatter":true,"created":"2025-05-28T01:33:22.956+09:00","updated":"2025-05-28T01:37:42.998+09:00"}
+{"제목":"CDN","날짜":"2025-05-27","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/CDN/","dgPassFrontmatter":true,"created":"2025-05-28T01:33:22.000+09:00","updated":"2025-05-28T01:37:42.000+09:00","dg-note-properties":{"제목":"CDN","날짜":"2025-05-27","tags":["매일메일"]}}
 ---
 
 ## ❓질문

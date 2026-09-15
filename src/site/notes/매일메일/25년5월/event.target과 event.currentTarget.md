@@ -1,5 +1,5 @@
 ---
-{"제목":"event.target과 event.currentTarget","날짜":"2025-05-26","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/event.target과 event.currentTarget/","dgPassFrontmatter":true,"created":"2025-05-26T21:19:04.892+09:00","updated":"2025-05-28T01:37:44.592+09:00"}
+{"제목":"event.target과 event.currentTarget","날짜":"2025-05-26","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/event.target과 event.currentTarget/","dgPassFrontmatter":true,"created":"2025-05-26T21:19:04.000+09:00","updated":"2025-05-28T01:37:44.000+09:00","dg-note-properties":{"제목":"event.target과 event.currentTarget","날짜":"2025-05-26","tags":["매일메일"]}}
 ---
 
 ## ❓질문

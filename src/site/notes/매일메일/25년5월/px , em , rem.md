@@ -1,5 +1,5 @@
 ---
-{"제목":"px , em , rem","날짜":"2025-05-22","tags":["매일메일","CSS"],"dg-publish":true,"permalink":"/매일메일/25년5월/px , em , rem/","dgPassFrontmatter":true,"created":"2025-05-22T21:04:37.892+09:00","updated":"2025-05-22T21:13:35.126+09:00"}
+{"제목":"px , em , rem","날짜":"2025-05-22","tags":["매일메일","CSS"],"dg-publish":true,"permalink":"/매일메일/25년5월/px , em , rem/","dgPassFrontmatter":true,"created":"2025-05-22T21:04:37.000+09:00","updated":"2025-05-22T21:13:35.000+09:00","dg-note-properties":{"제목":"px , em , rem","날짜":"2025-05-22","tags":["매일메일","CSS"]}}
 ---
 
 ## ❓질문

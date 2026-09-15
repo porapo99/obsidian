@@ -1,5 +1,5 @@
 ---
-{"제목":"CSS 의사 요소","날짜":"2025-07-07","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/CSS 의사 요소/","dgPassFrontmatter":true,"created":"2025-07-07T07:05:40.396+09:00","updated":"2025-07-07T07:29:40.717+09:00"}
+{"제목":"CSS 의사 요소","날짜":"2025-07-07","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/CSS 의사 요소/","dgPassFrontmatter":true,"created":"2025-07-07T07:05:40.000+09:00","updated":"2025-07-07T07:29:40.000+09:00","dg-note-properties":{"제목":"CSS 의사 요소","날짜":"2025-07-07","tags":["매일메일"]}}
 ---
 
 ## ❓질문

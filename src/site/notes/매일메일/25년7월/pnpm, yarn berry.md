@@ -1,5 +1,5 @@
 ---
-{"제목":"pnpm, yarn berry","날짜":"2025-07-10","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/pnpm, yarn berry/","dgPassFrontmatter":true,"created":"2025-07-12T04:16:23.345+09:00","updated":"2025-07-12T04:34:18.393+09:00"}
+{"제목":"pnpm, yarn berry","날짜":"2025-07-10","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/pnpm, yarn berry/","dgPassFrontmatter":true,"created":"2025-07-12T04:16:23.000+09:00","updated":"2025-07-12T04:34:18.000+09:00","dg-note-properties":{"제목":"pnpm, yarn berry","날짜":"2025-07-10","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"dvh, svh, lvh","날짜":"2025-07-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/dvh, svh, lvh/","dgPassFrontmatter":true,"created":"2025-07-30T01:12:41.597+09:00","updated":"2025-07-30T01:14:43.354+09:00"}
+{"제목":"dvh, svh, lvh","날짜":"2025-07-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/dvh, svh, lvh/","dgPassFrontmatter":true,"created":"2025-07-30T01:12:41.000+09:00","updated":"2025-07-30T01:14:43.000+09:00","dg-note-properties":{"제목":"dvh, svh, lvh","날짜":"2025-07-30","tags":["매일메일"]}}
 ---
 
 ## ❓질문

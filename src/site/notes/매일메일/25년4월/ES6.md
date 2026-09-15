@@ -1,5 +1,5 @@
 ---
-{"제목":"ES6","날짜":"2025-04-24","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/ES6/","dgPassFrontmatter":true,"created":"2025-04-25T07:16:31.414+09:00","updated":"2025-04-25T07:25:45.625+09:00"}
+{"제목":"ES6","날짜":"2025-04-24","tags":["매일메일","JavaScript"],"dg-publish":true,"permalink":"/매일메일/25년4월/ES6/","dgPassFrontmatter":true,"created":"2025-04-25T07:16:31.000+09:00","updated":"2025-04-25T07:25:45.000+09:00","dg-note-properties":{"제목":"ES6","날짜":"2025-04-24","tags":["매일메일","JavaScript"]}}
 ---
 
 ## ❓질문

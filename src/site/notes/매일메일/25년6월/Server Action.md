@@ -1,5 +1,5 @@
 ---
-{"제목":"Server Action","날짜":"2025-06-17","tags":["매일메일","NextJS"],"dg-publish":true,"permalink":"/매일메일/25년6월/Server Action/","dgPassFrontmatter":true,"created":"2025-06-18T21:37:32.378+09:00","updated":"2025-06-27T11:25:06.873+09:00"}
+{"제목":"Server Action","날짜":"2025-06-17","tags":["매일메일","NextJS"],"dg-publish":true,"permalink":"/매일메일/25년6월/Server Action/","dgPassFrontmatter":true,"created":"2025-06-18T21:37:32.000+09:00","updated":"2025-06-27T11:25:06.000+09:00","dg-note-properties":{"제목":"Server Action","날짜":"2025-06-17","tags":["매일메일","NextJS"]}}
 ---
 
 ## ❓질문

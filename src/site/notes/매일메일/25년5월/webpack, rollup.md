@@ -1,5 +1,5 @@
 ---
-{"제목":"webpack, rollup","날짜":"2025-05-08","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/webpack, rollup/","dgPassFrontmatter":true,"created":"2025-05-08T14:07:41.014+09:00","updated":"2025-05-08T14:23:41.075+09:00"}
+{"제목":"webpack, rollup","날짜":"2025-05-08","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/webpack, rollup/","dgPassFrontmatter":true,"created":"2025-05-08T14:07:41.000+09:00","updated":"2025-05-08T14:23:41.000+09:00","dg-note-properties":{"제목":"webpack, rollup","날짜":"2025-05-08","tags":["매일메일","Frontend"]}}
 ---
 
 ## ❓질문

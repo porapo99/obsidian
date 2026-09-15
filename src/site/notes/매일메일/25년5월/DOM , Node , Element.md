@@ -1,5 +1,5 @@
 ---
-{"제목":"DOM , Node , Element","날짜":"2025-05-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/DOM , Node , Element/","dgPassFrontmatter":true,"created":"2025-05-30T22:11:20.969+09:00","updated":"2025-05-30T22:17:11.058+09:00"}
+{"제목":"DOM , Node , Element","날짜":"2025-05-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/DOM , Node , Element/","dgPassFrontmatter":true,"created":"2025-05-30T22:11:20.000+09:00","updated":"2025-05-30T22:17:11.000+09:00","dg-note-properties":{"제목":"DOM , Node , Element","날짜":"2025-05-30","tags":["매일메일"]}}
 ---
 
 ## ❓질문

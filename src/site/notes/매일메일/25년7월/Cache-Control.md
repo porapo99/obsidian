@@ -1,5 +1,5 @@
 ---
-{"제목":"Cache-Control","날짜":"2025-07-22","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/Cache-Control/","dgPassFrontmatter":true,"created":"2025-07-22T13:44:18.637+09:00","updated":"2025-07-22T13:49:05.626+09:00"}
+{"제목":"Cache-Control","날짜":"2025-07-22","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/Cache-Control/","dgPassFrontmatter":true,"created":"2025-07-22T13:44:18.000+09:00","updated":"2025-07-22T13:49:05.000+09:00","dg-note-properties":{"제목":"Cache-Control","날짜":"2025-07-22","tags":["매일메일"]}}
 ---
 
 ## ❓질문

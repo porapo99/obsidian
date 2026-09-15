@@ -1,5 +1,5 @@
 ---
-{"제목":"Type Assertion","날짜":"2025-06-23","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Type Assertion/","dgPassFrontmatter":true,"created":"2025-06-23T23:45:57.321+09:00","updated":"2025-06-24T14:01:10.369+09:00"}
+{"제목":"Type Assertion","날짜":"2025-06-23","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Type Assertion/","dgPassFrontmatter":true,"created":"2025-06-23T23:45:57.000+09:00","updated":"2025-06-24T14:01:10.000+09:00","dg-note-properties":{"제목":"Type Assertion","날짜":"2025-06-23","tags":["매일메일"]}}
 ---
 
 ## ❓질문

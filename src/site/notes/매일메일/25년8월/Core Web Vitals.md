@@ -1,5 +1,5 @@
 ---
-{"제목":"Core Web Vitals","날짜":"2025-08-10","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/Core Web Vitals/","dgPassFrontmatter":true,"created":"2025-08-10T02:14:45.624+09:00","updated":"2025-08-13T22:05:24.009+09:00"}
+{"제목":"Core Web Vitals","날짜":"2025-08-10","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/Core Web Vitals/","dgPassFrontmatter":true,"created":"2025-08-10T02:14:45.000+09:00","updated":"2025-08-13T22:05:24.000+09:00","dg-note-properties":{"제목":"Core Web Vitals","날짜":"2025-08-10","tags":["매일메일"]}}
 ---
 
 ## ❓질문

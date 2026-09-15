@@ -1,5 +1,5 @@
 ---
-{"제목":"useRef","날짜":"2025-06-02","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년6월/useRef/","dgPassFrontmatter":true,"created":"2025-06-02T19:16:05.417+09:00","updated":"2025-06-03T21:19:36.847+09:00"}
+{"제목":"useRef","날짜":"2025-06-02","tags":["매일메일","React"],"dg-publish":true,"permalink":"/매일메일/25년6월/useRef/","dgPassFrontmatter":true,"created":"2025-06-02T19:16:05.000+09:00","updated":"2025-06-03T21:19:36.000+09:00","dg-note-properties":{"제목":"useRef","날짜":"2025-06-02","tags":["매일메일","React"]}}
 ---
 
 ## ❓질문

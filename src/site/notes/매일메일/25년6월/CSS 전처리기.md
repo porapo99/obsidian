@@ -1,5 +1,5 @@
 ---
-{"제목":"CSS 전처리기","날짜":"2025-06-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/CSS 전처리기/","dgPassFrontmatter":true,"created":"2025-06-30T15:24:30.382+09:00","updated":"2025-06-30T16:23:41.704+09:00"}
+{"제목":"CSS 전처리기","날짜":"2025-06-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/CSS 전처리기/","dgPassFrontmatter":true,"created":"2025-06-30T15:24:30.000+09:00","updated":"2025-06-30T16:23:41.000+09:00","dg-note-properties":{"제목":"CSS 전처리기","날짜":"2025-06-30","tags":["매일메일"]}}
 ---
 
 ## ❓질문

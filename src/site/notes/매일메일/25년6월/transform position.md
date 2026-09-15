@@ -1,5 +1,5 @@
 ---
-{"제목":"transform position","날짜":"2025-06-12","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/transform position/","dgPassFrontmatter":true,"created":"2025-06-13T01:27:30.952+09:00","updated":"2025-06-15T22:48:05.850+09:00"}
+{"제목":"transform position","날짜":"2025-06-12","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/transform position/","dgPassFrontmatter":true,"created":"2025-06-13T01:27:30.000+09:00","updated":"2025-06-15T22:48:05.000+09:00","dg-note-properties":{"제목":"transform position","날짜":"2025-06-12","tags":["매일메일"]}}
 ---
 
 ## ❓질문

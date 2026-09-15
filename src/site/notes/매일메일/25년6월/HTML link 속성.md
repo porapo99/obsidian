@@ -1,5 +1,5 @@
 ---
-{"제목":"HTML link 속성","날짜":"2025-06-19","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/HTML link 속성/","dgPassFrontmatter":true,"created":"2025-06-20T01:58:20.661+09:00","updated":"2025-06-21T09:30:19.335+09:00"}
+{"제목":"HTML link 속성","날짜":"2025-06-19","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/HTML link 속성/","dgPassFrontmatter":true,"created":"2025-06-20T01:58:20.000+09:00","updated":"2025-06-21T09:30:19.000+09:00","dg-note-properties":{"제목":"HTML link 속성","날짜":"2025-06-19","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"Proxy Server","날짜":"2025-06-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Proxy Server/","dgPassFrontmatter":true,"created":"2025-06-09T22:32:54.843+09:00","updated":"2025-06-10T23:10:51.721+09:00"}
+{"제목":"Proxy Server","날짜":"2025-06-09","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Proxy Server/","dgPassFrontmatter":true,"created":"2025-06-09T22:32:54.000+09:00","updated":"2025-06-10T23:10:51.000+09:00","dg-note-properties":{"제목":"Proxy Server","날짜":"2025-06-09","tags":["매일메일"]}}
 ---
 
 ## ❓질문

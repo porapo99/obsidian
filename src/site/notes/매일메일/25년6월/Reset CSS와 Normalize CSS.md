@@ -1,5 +1,5 @@
 ---
-{"제목":"Reset CSS와 Normalize CSS","날짜":"2025-06-24","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Reset CSS와 Normalize CSS/","dgPassFrontmatter":true,"created":"2025-06-24T13:51:24.992+09:00","updated":"2025-06-24T14:01:03.771+09:00"}
+{"제목":"Reset CSS와 Normalize CSS","날짜":"2025-06-24","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Reset CSS와 Normalize CSS/","dgPassFrontmatter":true,"created":"2025-06-24T13:51:24.000+09:00","updated":"2025-06-24T14:01:03.000+09:00","dg-note-properties":{"제목":"Reset CSS와 Normalize CSS","날짜":"2025-06-24","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"css box-sizing","날짜":"2025-06-06","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/css box-sizing/","dgPassFrontmatter":true,"created":"2025-06-06T22:27:24.303+09:00","updated":"2025-06-06T22:29:47.348+09:00"}
+{"제목":"css box-sizing","날짜":"2025-06-06","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/css box-sizing/","dgPassFrontmatter":true,"created":"2025-06-06T22:27:24.000+09:00","updated":"2025-06-06T22:29:47.000+09:00","dg-note-properties":{"제목":"css box-sizing","날짜":"2025-06-06","tags":["매일메일"]}}
 ---
 
 ## ❓질문

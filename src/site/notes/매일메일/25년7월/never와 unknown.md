@@ -1,5 +1,5 @@
 ---
-{"제목":"never와 unknown","날짜":"2025-07-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/never와 unknown/","dgPassFrontmatter":true,"created":"2025-07-30T09:54:07.964+09:00","updated":"2025-07-30T09:56:57.953+09:00"}
+{"제목":"never와 unknown","날짜":"2025-07-30","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/never와 unknown/","dgPassFrontmatter":true,"created":"2025-07-30T09:54:07.000+09:00","updated":"2025-07-30T09:56:57.000+09:00","dg-note-properties":{"제목":"never와 unknown","날짜":"2025-07-30","tags":["매일메일"]}}
 ---
 
 ## ❓질문

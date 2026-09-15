@@ -1,5 +1,5 @@
 ---
-{"제목":"this 바인딩","날짜":"2025-06-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/this 바인딩/","dgPassFrontmatter":true,"created":"2025-06-20T22:56:14.709+09:00","updated":"2025-06-21T09:56:35.511+09:00"}
+{"제목":"this 바인딩","날짜":"2025-06-20","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/this 바인딩/","dgPassFrontmatter":true,"created":"2025-06-20T22:56:14.000+09:00","updated":"2025-06-21T09:56:35.000+09:00","dg-note-properties":{"제목":"this 바인딩","날짜":"2025-06-20","tags":["매일메일"]}}
 ---
 
 ## ❓질문

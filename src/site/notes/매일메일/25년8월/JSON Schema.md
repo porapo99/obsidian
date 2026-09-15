@@ -1,5 +1,5 @@
 ---
-{"제목":"JSON Schema","날짜":"2025-08-28","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/JSON Schema/","dgPassFrontmatter":true,"created":"2025-08-28T02:13:55.426+09:00","updated":"2025-08-28T02:37:04.199+09:00"}
+{"제목":"JSON Schema","날짜":"2025-08-28","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/JSON Schema/","dgPassFrontmatter":true,"created":"2025-08-28T02:13:55.000+09:00","updated":"2025-08-28T02:37:04.000+09:00","dg-note-properties":{"제목":"JSON Schema","날짜":"2025-08-28","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"HTML 데이터 속성","날짜":"2025-05-23","tags":["매일메일","HTML"],"dg-publish":true,"permalink":"/매일메일/25년5월/HTML 데이터 속성/","dgPassFrontmatter":true,"created":"2025-05-23T21:09:17.451+09:00","updated":"2025-05-23T21:14:29.435+09:00"}
+{"제목":"HTML 데이터 속성","날짜":"2025-05-23","tags":["매일메일","HTML"],"dg-publish":true,"permalink":"/매일메일/25년5월/HTML 데이터 속성/","dgPassFrontmatter":true,"created":"2025-05-23T21:09:17.000+09:00","updated":"2025-05-23T21:14:29.000+09:00","dg-note-properties":{"제목":"HTML 데이터 속성","날짜":"2025-05-23","tags":["매일메일","HTML"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"생성자 함수와 class","날짜":"2025-08-21","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/생성자 함수와 class/","dgPassFrontmatter":true,"created":"2025-08-21T17:25:50.492+09:00","updated":"2025-08-21T17:43:26.447+09:00"}
+{"제목":"생성자 함수와 class","날짜":"2025-08-21","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년8월/생성자 함수와 class/","dgPassFrontmatter":true,"created":"2025-08-21T17:25:50.000+09:00","updated":"2025-08-21T17:43:26.000+09:00","dg-note-properties":{"제목":"생성자 함수와 class","날짜":"2025-08-21","tags":["매일메일"]}}
 ---
 
 ## ❓질문

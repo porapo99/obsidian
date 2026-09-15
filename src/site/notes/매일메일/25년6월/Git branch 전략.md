@@ -1,5 +1,5 @@
 ---
-{"제목":"Git branch 전략","날짜":"2025-06-27","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Git branch 전략/","dgPassFrontmatter":true,"created":"2025-06-27T11:15:07.342+09:00","updated":"2025-06-27T11:23:28.790+09:00"}
+{"제목":"Git branch 전략","날짜":"2025-06-27","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Git branch 전략/","dgPassFrontmatter":true,"created":"2025-06-27T11:15:07.000+09:00","updated":"2025-06-27T11:23:28.000+09:00","dg-note-properties":{"제목":"Git branch 전략","날짜":"2025-06-27","tags":["매일메일"]}}
 ---
 
 ## ❓질문

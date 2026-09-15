@@ -1,5 +1,5 @@
 ---
-{"제목":"BFF(Backend For Frontend)","날짜":"2025-07-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/BFF(Backend For Frontend)/","dgPassFrontmatter":true,"created":"2025-07-16T04:05:44.585+09:00","updated":"2025-08-21T17:34:26.999+09:00"}
+{"제목":"BFF(Backend For Frontend)","날짜":"2025-07-15","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/BFF(Backend For Frontend)/","dgPassFrontmatter":true,"created":"2025-07-16T04:05:44.000+09:00","updated":"2025-08-21T17:34:26.000+09:00","dg-note-properties":{"제목":"BFF(Backend For Frontend)","날짜":"2025-07-15","tags":["매일메일"]}}
 ---
 
 ## ❓질문

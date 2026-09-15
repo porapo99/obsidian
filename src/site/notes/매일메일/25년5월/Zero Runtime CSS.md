@@ -1,5 +1,5 @@
 ---
-{"제목":"Zero Runtime CSS","날짜":"2025-05-20","tags":["매일메일","CSS"],"dg-publish":true,"permalink":"/매일메일/25년5월/Zero Runtime CSS/","dgPassFrontmatter":true,"created":"2025-05-21T20:59:13.612+09:00","updated":"2025-05-21T21:07:14.660+09:00"}
+{"제목":"Zero Runtime CSS","날짜":"2025-05-20","tags":["매일메일","CSS"],"dg-publish":true,"permalink":"/매일메일/25년5월/Zero Runtime CSS/","dgPassFrontmatter":true,"created":"2025-05-21T20:59:13.000+09:00","updated":"2025-05-21T21:07:14.000+09:00","dg-note-properties":{"제목":"Zero Runtime CSS","날짜":"2025-05-20","tags":["매일메일","CSS"]}}
 ---
 
 ## ❓질문

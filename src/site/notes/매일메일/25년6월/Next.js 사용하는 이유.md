@@ -1,5 +1,5 @@
 ---
-{"제목":"Next.js 사용하는 이유","날짜":"2025-06-13","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Next.js 사용하는 이유/","dgPassFrontmatter":true,"created":"2025-06-15T22:35:20.894+09:00","updated":"2025-06-15T22:54:38.547+09:00"}
+{"제목":"Next.js 사용하는 이유","날짜":"2025-06-13","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/Next.js 사용하는 이유/","dgPassFrontmatter":true,"created":"2025-06-15T22:35:20.000+09:00","updated":"2025-06-15T22:54:38.000+09:00","dg-note-properties":{"제목":"Next.js 사용하는 이유","날짜":"2025-06-13","tags":["매일메일"]}}
 ---
 
 ## ❓질문

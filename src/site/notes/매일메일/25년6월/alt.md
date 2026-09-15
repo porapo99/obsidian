@@ -1,5 +1,5 @@
 ---
-{"제목":"alt","날짜":"2025-06-25","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/alt/","dgPassFrontmatter":true,"created":"2025-06-26T00:27:24.586+09:00","updated":"2025-06-26T00:39:34.360+09:00"}
+{"제목":"alt","날짜":"2025-06-25","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/alt/","dgPassFrontmatter":true,"created":"2025-06-26T00:27:24.000+09:00","updated":"2025-06-26T00:39:34.000+09:00","dg-note-properties":{"제목":"alt","날짜":"2025-06-25","tags":["매일메일"]}}
 ---
 
 ## ❓질문

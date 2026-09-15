@@ -1,5 +1,5 @@
 ---
-{"제목":"Body와 Header","날짜":"2025-05-19","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/Body와 Header/","dgPassFrontmatter":true,"created":"2025-05-19T23:25:43.905+09:00","updated":"2025-05-21T20:57:58.637+09:00"}
+{"제목":"Body와 Header","날짜":"2025-05-19","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/Body와 Header/","dgPassFrontmatter":true,"created":"2025-05-19T23:25:43.000+09:00","updated":"2025-05-21T20:57:58.000+09:00","dg-note-properties":{"제목":"Body와 Header","날짜":"2025-05-19","tags":["매일메일","Frontend"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"다음 Promise 코드의 실행 결과를 설명해주세요","날짜":"2025-07-25","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/다음 Promise 코드의 실행 결과를 설명해주세요/","dgPassFrontmatter":true,"created":"2025-07-25T20:20:21.146+09:00","updated":"2025-07-25T20:34:37.178+09:00"}
+{"제목":"다음 Promise 코드의 실행 결과를 설명해주세요","날짜":"2025-07-25","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/다음 Promise 코드의 실행 결과를 설명해주세요/","dgPassFrontmatter":true,"created":"2025-07-25T20:20:21.000+09:00","updated":"2025-07-25T20:34:37.000+09:00","dg-note-properties":{"제목":"다음 Promise 코드의 실행 결과를 설명해주세요","날짜":"2025-07-25","tags":["매일메일"]}}
 ---
 
 ## ❓질문

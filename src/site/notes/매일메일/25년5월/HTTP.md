@@ -1,5 +1,5 @@
 ---
-{"제목":"HTTP","날짜":"2025-05-18","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/HTTP/","dgPassFrontmatter":true,"created":"2025-05-18T21:41:16.464+09:00","updated":"2025-05-18T21:57:50.476+09:00"}
+{"제목":"HTTP","날짜":"2025-05-18","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/HTTP/","dgPassFrontmatter":true,"created":"2025-05-18T21:41:16.000+09:00","updated":"2025-05-18T21:57:50.000+09:00","dg-note-properties":{"제목":"HTTP","날짜":"2025-05-18","tags":["매일메일","Frontend"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"HTML Doctype","날짜":"2025-05-28","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/HTML Doctype/","dgPassFrontmatter":true,"created":"2025-05-28T22:19:40.061+09:00","updated":"2025-05-30T03:24:32.342+09:00"}
+{"제목":"HTML Doctype","날짜":"2025-05-28","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년5월/HTML Doctype/","dgPassFrontmatter":true,"created":"2025-05-28T22:19:40.000+09:00","updated":"2025-05-30T03:24:32.000+09:00","dg-note-properties":{"제목":"HTML Doctype","날짜":"2025-05-28","tags":["매일메일"]}}
 ---
 
 ## ❓질문

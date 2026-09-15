@@ -1,5 +1,5 @@
 ---
-{"제목":"TDD","날짜":"2025-06-03","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/TDD/","dgPassFrontmatter":true,"created":"2025-06-03T21:11:44.919+09:00","updated":"2025-06-03T21:24:16.559+09:00"}
+{"제목":"TDD","날짜":"2025-06-03","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년6월/TDD/","dgPassFrontmatter":true,"created":"2025-06-03T21:11:44.000+09:00","updated":"2025-06-03T21:24:16.000+09:00","dg-note-properties":{"제목":"TDD","날짜":"2025-06-03","tags":["매일메일"]}}
 ---
 
 ## ❓질문

@@ -1,5 +1,5 @@
 ---
-{"제목":"Steaming SSR","날짜":"2025-05-15","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/Steaming SSR/","dgPassFrontmatter":true,"created":"2025-05-15T20:49:27.507+09:00","updated":"2025-08-21T17:33:53.541+09:00"}
+{"제목":"Steaming SSR","날짜":"2025-05-15","tags":["매일메일","Frontend"],"dg-publish":true,"permalink":"/매일메일/25년5월/Steaming SSR/","dgPassFrontmatter":true,"created":"2025-05-15T20:49:27.000+09:00","updated":"2025-08-21T17:33:53.000+09:00","dg-note-properties":{"제목":"Steaming SSR","날짜":"2025-05-15","tags":["매일메일","Frontend"]}}
 ---
 
 ## ❓질문

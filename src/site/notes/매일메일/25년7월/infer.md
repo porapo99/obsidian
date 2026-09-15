@@ -1,5 +1,5 @@
 ---
-{"제목":"infer","날짜":"2025-07-16","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/infer/","dgPassFrontmatter":true,"created":"2025-07-16T15:09:26.932+09:00","updated":"2025-07-16T15:13:45.976+09:00"}
+{"제목":"infer","날짜":"2025-07-16","tags":["매일메일"],"dg-publish":true,"permalink":"/매일메일/25년7월/infer/","dgPassFrontmatter":true,"created":"2025-07-16T15:09:26.000+09:00","updated":"2025-07-16T15:13:45.000+09:00","dg-note-properties":{"제목":"infer","날짜":"2025-07-16","tags":["매일메일"]}}
 ---
 
 ## ❓질문
