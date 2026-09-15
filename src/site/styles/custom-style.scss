@@ -192,6 +192,17 @@ ul > li::marker {
   padding: 0;
 }
 
+.navbar-logo-link {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+}
+
 .lucide,
 .lucide-calendar-clock-svg-icon {
   width: 18px;
