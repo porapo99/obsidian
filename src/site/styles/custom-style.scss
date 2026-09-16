@@ -336,6 +336,33 @@ a.tag {
   display: none;
 }
 
+/* ===== 사이드바 스크롤바 =====
+   Obsidian CSS(body:not(.native-scrollbars) *)가 body 하위 스크롤바를 항상 보이는 thin
+   스타일로 강제한다. 페이지 스크롤이 뷰포트(html)로 옮겨가 그쪽은 네이티브(자동 숨김)가
+   됐는데 사이드바만 남아 도드라져서, 평소엔 투명 / 마우스 올렸을 때만 얇게 보이게 한다.
+   (body 접두는 원본 규칙과 특이성을 맞추기 위함) */
+body .filetree-sidebar {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+body .filetree-sidebar:hover {
+  scrollbar-color: rgba(39, 55, 77, 0.3) transparent;
+}
+
+/* scrollbar-color 미지원 브라우저(구 Safari)용 */
+body .filetree-sidebar::-webkit-scrollbar {
+  width: 8px;
+}
+
+body .filetree-sidebar::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+body .filetree-sidebar:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(39, 55, 77, 0.3);
+}
+
 /* ===== 파일 트리 / 노트 링크 ===== */
 .foldername {
   font-size: 14px;
