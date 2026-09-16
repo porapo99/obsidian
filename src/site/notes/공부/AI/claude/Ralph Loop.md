@@ -1,5 +1,5 @@
 ---
-{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null,"dg-publish":true,"permalink":"/공부/AI/claude/Ralph Loop/","dgPassFrontmatter":true,"created":"2026-09-15T11:09:53.589+09:00","updated":"2026-09-16T11:35:48.651+09:00","dg-note-properties":{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null}}
+{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null,"dg-publish":true,"permalink":"/공부/AI/claude/Ralph Loop/","dgPassFrontmatter":true,"created":"2026-09-15T11:09:53.589+09:00","updated":"2026-09-16T11:37:25.994+09:00","dg-note-properties":{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null}}
 ---
 
 
@@ -15,7 +15,7 @@ Ralph Loop는 Claude Code 에이전트를 계속 반복 실행시켜서 작업�
 
 `--max-iterations`는 N번 반복 후 정지시키는 옵션이고 기본값은 무제한입니다. `--completion-promise`는 완료를 알리는 문구를 지정하는 옵션입니다. 취소는 `/cancel-ralph`로 합니다.
 
-```js
+```
 /ralph-loop "Build a REST API for todos. Requirements: CRUD operations, \
     input validation, tests. Output COMPLETE when done." \
     --completion-promise "COMPLETE" \
