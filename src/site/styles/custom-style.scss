@@ -1,24 +1,66 @@
-/* 글로벌 폰트 변수 재정의 */
-:root {
-  --font-default: "Apple SD Gothic Neo", AppleSDGothicNeo, AppleSDGothicNeoB00,
-    -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕",
-    "Nanum Gothic", "나눔 고딕", "Noto Sans KR", "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  --font-monospace-default: "Apple SD Gothic Neo", Menlo, SFMono-Regular,
-    Consolas, "Roboto Mono", "Source Code Pro", monospace;
+/***
+ * 디자인 토큰 (라이트 팔레트)
+ *   배경      #DDE6ED → 본문 배경
+ *   연한 배경 #9DB2BF → 사이드바·상단바, 코드/인용문 배경(옅게 섞음)
+ *   연한 강조 #526D82 → accent (태그·테두리·hover·그래프)
+ *   진한 강조 #27374D → 제목·링크·활성 노트·검색 버튼 테두리
+ *   글자      무채색(검·회·흰)만 사용
+ ***/
+/* obsidian-base.css가 이 변수들을 body / .theme-light에 직접 선언해두어서
+   :root에서 오버라이드해도 상속되지 않는다. body.theme-light로 특이성을 올려
+   같은 요소에서 덮어쓴다. */
+body.theme-light {
+  --palette-bg: #dde6ed;
+  --palette-bg-soft: #9db2bf;
+  --palette-accent: #526d82;
+  --palette-accent-strong: #27374d;
+  /* #9DB2BF를 본문 배경에 옅게 섞은 톤 — 코드/인용문 배경용 */
+  --palette-bg-tint: #cbd7e0;
+
+  /* accent = #526d82 */
+  --accent-h: 206;
+  --accent-s: 23%;
+  --accent-l: 42%;
+
+  /* 배경 */
+  --color-base-00: var(--palette-bg);
+  --color-base-05: #d4dee6;
+  --color-base-10: var(--palette-bg-tint);
+  --color-base-20: var(--palette-bg-soft);
+  --color-base-25: #b4c4ce;
+  --color-base-30: var(--palette-bg-soft);
+  --color-base-35: #8ea4b3;
+  --color-base-40: #7e96a6;
+
+  /* 글자 — 무채색 */
+  --color-base-50: #6b6b6b;
+  --color-base-60: #5a5a5a;
+  --color-base-70: #444444;
+  --color-base-80: #1a1a1a; /* Simple 테마의 본문 p 색 */
+  --color-base-90: var(--palette-accent-strong); /* Simple 테마의 heading-text-color */
+  --color-base-100: #111111;
+
+  /* 본문 16px (Simple 테마 기본 .87rem → 시안 기준) */
+  --font-paragraph: 16px;
+
+  /* 링크: 진한 강조 + 밑줄, hover 시 연한 강조 */
+  --link-color: var(--palette-accent-strong);
+  --link-color-hover: var(--palette-accent);
+  --link-external-color: var(--palette-accent-strong);
+  --link-external-color-hover: var(--palette-accent);
+  --link-unresolved-color: var(--palette-accent-strong);
+
+  --font-default: "Pretendard", "Apple SD Gothic Neo", AppleSDGothicNeo,
+    AppleSDGothicNeoB00, -apple-system, BlinkMacSystemFont, "Malgun Gothic",
+    "맑은 고딕", "Noto Sans KR", "Segoe UI", Roboto, sans-serif;
+  --font-monospace-default: "JetBrains Mono", Menlo, SFMono-Regular, Consolas,
+    "Roboto Mono", "Source Code Pro", monospace;
 }
 
+/* 웹폰트: Apple SD Gothic Neo는 Pretendard가 실패했을 때의 폴백으로만 로드 */
 body {
-  /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-  font-family: "Apple SD Gothic Neo", AppleSDGothicNeo, AppleSDGothicNeoB00,
-    -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕",
-    "Nanum Gothic", "나눔 고딕", "Noto Sans KR", "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-default);
 
-  /* 웹폰트 로드 */
   @font-face {
     font-family: "Apple SD Gothic Neo";
     font-weight: 100;
@@ -71,88 +113,283 @@ body {
   }
 }
 
-/* 글로벌 폰트 설정 - 모든 요소에 영향을 줌 */
 html,
 body,
 input,
 textarea,
 select,
 button {
-  font-family: "Apple SD Gothic Neo", AppleSDGothicNeo, AppleSDGothicNeoB00,
-    -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕",
-    "Nanum Gothic", "나눔 고딕", "Noto Sans KR", "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+  font-family: var(--font-default) !important;
 }
 
-/* 코드 블록을 위한 폰트 설정 */
 code,
 pre,
 .markdown-rendered pre code {
-  font-family: "Apple SD Gothic Neo", Menlo, Monaco, "Courier New", monospace !important;
+  font-family: var(--font-monospace-default) !important;
 }
 
-/* 헤더용 폰트 설정 */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Apple SD Gothic Neo", AppleSDGothicNeo, AppleSDGothicNeoB00,
-    -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕",
-    "Nanum Gothic", "나눔 고딕", "Noto Sans KR", sans-serif !important;
+  font-family: var(--font-default) !important;
   font-weight: 700 !important;
+  letter-spacing: -0.01em;
 }
 
-/* 특정 클래스에 대한 폰트 설정 */
 .markdown-preview-view,
 .markdown-rendered,
 .content,
 .notelink,
 .node-body {
-  font-family: "Apple SD Gothic Neo", AppleSDGothicNeo, AppleSDGothicNeoB00,
-    -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕",
-    "Nanum Gothic", "나눔 고딕", "Noto Sans KR", "Segoe UI", Roboto, sans-serif !important;
+  font-family: var(--font-default) !important;
 }
 
 .lucide-sticky-note {
   display: none;
 }
 
+/* ===== 본문 타이포그래피 ===== */
+.content.cm-s-obsidian {
+  max-width: 700px;
+  line-height: 1.75;
+  margin-top: 90px;
+  margin-bottom: 30px;
+}
+
+@media (min-width: 1400px) {
+  .content.cm-s-obsidian {
+    margin-top: 60px;
+  }
+}
+
+.markdown-rendered h1 {
+  font-size: 34px;
+  line-height: 1.25;
+  margin-bottom: 4px;
+}
+
+.markdown-rendered p {
+  margin: 14px 0;
+}
+
+/* ===== 노트 헤더: 폴더 경로 → 제목 → 작성/수정일 → 태그 → 구분선 ===== */
+.note-header {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding-bottom: 28px;
+  margin-bottom: 32px;
+  border-bottom: 1px solid var(--palette-bg-soft);
+}
+
+.note-header h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.note-breadcrumb {
+  font-size: 13px;
+  color: var(--text-faint);
+}
+
+.note-header .header-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.note-header .timestamps {
+  position: static;
+  margin: 0;
+  gap: 14px;
+  font-size: 13px;
+  color: var(--text-faint);
+
+  div {
+    gap: 6px;
+  }
+
+  /* 작성 | 수정 사이 세로 구분선 */
+  div + div {
+    padding-left: 14px;
+    border-left: 1px solid var(--palette-bg-soft);
+  }
+}
+
+.note-header .timestamps .lucide {
+  width: 14px;
+  height: 14px;
+}
+
+/* 인라인 코드 */
+.markdown-rendered code {
+  color: var(--palette-accent-strong);
+  background-color: var(--palette-bg-tint);
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+  font-size: 13.5px;
+}
+
+/* 코드 블록 — 라이트 배경이므로 prism-okaidia(다크용) 글자색을 팔레트로 덮어쓴다 */
+.markdown-rendered pre {
+  background-color: var(--palette-bg-tint);
+  border-radius: 6px;
+}
+
+.markdown-rendered pre code,
+.markdown-rendered pre code[class*="language-"] {
+  font-size: 14.25px;
+  color: var(--color-base-100);
+  text-shadow: none;
+}
+
+.markdown-rendered pre {
+  .token.comment,
+  .token.prolog,
+  .token.doctype,
+  .token.cdata {
+    color: var(--color-base-50);
+  }
+  .token.punctuation,
+  .token.operator,
+  .token.entity,
+  .token.url,
+  .token.variable {
+    color: var(--color-base-70);
+  }
+  .token.keyword,
+  .token.atrule,
+  .token.important,
+  .token.tag,
+  .token.selector {
+    color: var(--palette-accent-strong);
+    font-weight: 600;
+  }
+  .token.string,
+  .token.char,
+  .token.attr-value,
+  .token.inserted,
+  .token.regex {
+    color: var(--palette-accent);
+  }
+  .token.function,
+  .token.class-name,
+  .token.property,
+  .token.attr-name,
+  .token.builtin,
+  .token.constant,
+  .token.symbol,
+  .token.deleted {
+    color: var(--color-base-100);
+  }
+  .token.boolean,
+  .token.number {
+    color: var(--palette-accent-strong);
+  }
+}
+
+/* 인용문 */
+.markdown-rendered blockquote {
+  border-left: 3px solid var(--palette-accent);
+  background-color: var(--palette-bg-tint);
+  border-radius: 0 6px 6px 0;
+  color: var(--text-muted);
+}
+
+/* 구분선 */
+.markdown-rendered hr {
+  border: none;
+  border-top: 1px solid var(--background-modifier-border);
+  margin: 40px 0;
+}
+
+/* 링크 밑줄을 연한 강조 톤으로 은은하게 */
+.markdown-rendered a:not(.tag):not(.footnote-link) {
+  text-decoration-color: hsla(var(--color-accent-hsl), 0.5);
+}
+
+/* 태그 배지 — a.tag로 한정 (prism의 .token.tag에 걸리면 코드 안 HTML 태그가 pill이 됨) */
+a.tag {
+  display: inline-flex;
+  align-items: center;
+  background-color: hsla(var(--color-accent-hsl), 0.14);
+  color: var(--palette-accent-strong);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 12.5px;
+  font-weight: 500;
+  text-decoration: none !important;
+}
+
+.header-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+.note-header .header-tags {
+  margin: 0;
+}
+
+/* 태그가 하나도 없으면(홈 등) 여백 자체를 없앤다 */
+.header-tags:not(:has(.tag)) {
+  display: none;
+}
+
+/* ===== 파일 트리 / 노트 링크 ===== */
+.foldername {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-normal);
+}
+
 .filename {
   font-size: 14px;
+  /* 긴 제목: 한국어는 단어 단위로 줄바꿈, 긴 영문/경로는 강제로 끊음 */
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+  line-height: 1.4;
+}
+
+.filename {
+  color: var(--text-muted);
 }
 
 .filename:focus {
-  color: #4dabf7;
+  color: var(--palette-accent-strong);
   outline: none;
   text-decoration: underline;
 }
 
 .notelink:hover .filename {
-  color: #4dabf7;
+  color: var(--palette-accent-strong);
 }
 
+/* 활성 노트: 사이드바 배경(#9DB2BF) 위에서는 #526D82 글자 대비가 낮아
+   글자는 진한 강조, 왼쪽 표시선만 연한 강조를 쓴다 */
 .active-note {
-  color: #4dabf7;
+  color: var(--palette-accent-strong);
 }
 
 .active-note * {
-  color: #4dabf7 !important;
+  color: var(--palette-accent-strong) !important;
+  font-weight: 600;
 }
 
 .notelink.active-note {
   transform: translateX(0px);
-}
-
-.header-tags {
-  margin-top: 15px;
-  margin-bottom: 50px;
+  border-left: 2px solid var(--palette-accent);
+  padding-left: 23px;
 }
 
 ol,
 ul {
-  font-size: 14px;
+  font-size: 16px;
   margin: 8px 0px;
 }
 
@@ -160,47 +397,81 @@ ol > li,
 ul > li,
 ol > li::marker,
 ul > li::marker {
-  font-size: 14px;
+  font-size: 16px;
 }
 
-/* 기본값 (1400px 미만) - 현재 마진 유지하고 아래 마진만 추가 */
-.content.cm-s-obsidian {
-  margin-top: 90px;
-  margin-bottom: 30px;
+.table-wrapper {
+  margin-top: 10px;
+  margin-bottom: -20px;
 }
 
-/* 1400px 이상 화면에서의 마진 설정 */
-@media (min-width: 1400px) {
-  .content.cm-s-obsidian {
-    margin-top: 60px;
-    margin-bottom: 30px;
+/* ===== 사이드바 제목 (홈 링크) — 검색 버튼과 같은 중앙축에 정렬 ===== */
+.filetree-sidebar .sidebar-title {
+  display: block;
+  text-align: center;
+}
+
+.filetree-sidebar .sidebar-title h1 {
+  margin: 12px 0 8px !important;
+  font-size: 22px !important;
+  line-height: 1.2;
+  color: var(--palette-accent-strong);
+}
+
+.filetree-sidebar .search-button {
+  border-color: var(--palette-accent-strong);
+}
+
+/* ===== Alpine 부팅 전 깜빡임 방지 =====
+   상단바 래퍼와 사이드바는 inline style="display:none"으로 시작하고, async로 로드되는
+   Alpine이 x-show를 평가한 뒤에야 나타난다. 그 사이 첫 페인트에는 그 자리가 페이지 배경
+   (#DDE6ED, 거의 흰색)으로 비어 보여서 "흰색 블링크"가 생긴다.
+   → 뷰포트 폭에 맞는 쪽을 CSS에서 미리 보여준다. 스타일시트의 !important는 inline의
+   일반 선언보다 우선하고, Alpine이 숨길 때는 inline !important를 쓰므로 그쪽이 다시 이긴다. */
+@media (max-width: 1399.98px) {
+  .filetree-navbar-wrap {
+    display: block !important;
   }
 }
 
-/* code 태그 스타일링 - p 태그 안에 있는 code 태그에만 적용 */
-.markdown-rendered code {
-  color: #4dabf7;
-  font-size: 13.92px;
+@media (min-width: 1400px) {
+  .filetree-sidebar {
+    display: block !important;
+  }
 }
 
-.markdown-rendered pre code {
-  font-size: 14.75px;
-  color: #bababa;
+/* ===== 상단바 (1400px 미만) — 햄버거 · 사이트명 · 검색을 한 축에 정렬 ===== */
+.navbar .navbar-inner {
+  gap: 12px;
 }
 
-.navbar-inner > a > h1 {
-  padding: 0;
+.navbar-menu-toggle {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: var(--palette-accent-strong);
 }
 
-.navbar-logo-link {
+.navbar-menu-toggle .lucide {
+  width: 22px;
+  height: 22px;
+}
+
+.navbar-title {
   display: flex;
   align-items: center;
 }
 
-.navbar-logo {
-  width: 28px;
-  height: 28px;
-  border-radius: 6px;
+.navbar-title h1 {
+  margin: 15px 0 !important;
+  padding: 0;
+  font-size: 18px !important;
+  line-height: 1;
+  color: var(--palette-accent-strong);
+}
+
+.navbar .search-button {
+  border-color: var(--palette-accent-strong);
 }
 
 .lucide,
@@ -209,12 +480,71 @@ ul > li::marker {
   height: 18px;
 }
 
-.timestamps {
-  position: relative;
-  top: -30px;
+/* ===== 홈: 최근 글 / 이번주의 랜덤 글 ===== */
+.home-recent,
+.home-random {
+  margin-top: 40px;
 }
 
-.table-wrapper {
-  margin-top: 10px;
-  margin-bottom: -20px;
+.home-recent h2,
+.home-random h2 {
+  font-size: 20px;
+  padding: 0 0 12px;
+  margin: 0;
+}
+
+.markdown-rendered .home-recent-list {
+  list-style: none;
+  padding: 0; /* 테마의 ul padding-inline-start(32px) 무효화 */
+  margin: 0;
+  font-size: 16px;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(39, 55, 77, 0.12);
+    font-size: 16px;
+  }
+
+  a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.home-recent-date {
+  font-family: var(--font-monospace-default);
+  font-size: 13px;
+  color: var(--text-faint);
+  width: 88px;
+  flex-shrink: 0;
+}
+
+.home-recent-folder {
+  margin-left: auto;
+  font-size: 13px;
+  color: var(--text-faint);
+  white-space: nowrap;
+}
+
+@media (max-width: 800px) {
+  .home-recent-folder {
+    display: none;
+  }
+}
+
+.home-random h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-random h2 a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }

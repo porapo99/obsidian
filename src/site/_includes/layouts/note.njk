@@ -27,11 +27,24 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endif %}
 
     <main class="content cm-s-obsidian {{contentClasses}}">
-      <header>
+      <header class="note-header">
+        {% if userComputed.breadcrumb and userComputed.breadcrumb.length %}
+          <div class="note-breadcrumb">{{ userComputed.breadcrumb | join(" / ") }}</div>
+        {% endif %}
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
         <div class="header-meta">
+          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
+          <div class="timestamps">
+            {%- if meta.timestampSettings.showCreated and created -%}
+            <div><i icon-name="calendar"></i> <span class="human-date" data-date="{{created}}"></span> 작성</div>
+            {%- endif -%}
+            {%- if meta.timestampSettings.showUpdated and updated -%}
+            <div><span class="human-date" data-date="{{updated}}"></span> 수정</div>
+            {%- endif -%}
+          </div>
+          {%- endif -%}
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
               {% for tag in tags %}
@@ -43,16 +56,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
               {% endfor %}
             </div>
           {% endif %}
-          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
-          <div class="timestamps">
-            {%- if meta.timestampSettings.showCreated and created -%}
-            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
-            {%- endif -%}
-            {%- if meta.timestampSettings.showUpdated and updated -%}
-            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
-            {%- endif -%}
-          </div>
-          {%- endif -%}
         </div>
       {% for imp in dynamics.common.header %}
         {% include imp %}

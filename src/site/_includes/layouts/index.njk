@@ -22,8 +22,8 @@
     {% endif %}
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
+      {% if settings.dgShowInlineTitle === true and noteTitle %}
+        <h1>{{ noteTitle }}</h1>
       {% endif %}
 
       <div class="header-meta">

@@ -1,12 +1,11 @@
 <nav class="navbar">
     <div class="navbar-inner">
-        <span style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile"><i  icon-name="menu"></i></span>
+        <span class="navbar-menu-toggle" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}
-        <a href="/" class="navbar-logo-link" style="text-decoration: none;">
-            <img src="/img/logo.png" alt="{{meta.siteName}}" class="navbar-logo" />
-            <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+        <a href="/" class="navbar-title" style="text-decoration: none;">
+            <h1>{{meta.siteName}}</h1>
         </a>
         {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}

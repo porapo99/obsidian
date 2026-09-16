@@ -26,7 +26,7 @@
             x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
             x-data="{isDesktop: true, showFilesMobile: false}">
 
-        <div x-show.important="!isDesktop" style="display: none;">
+        <div class="filetree-navbar-wrap" x-show.important="!isDesktop" style="display: none;">
             {%include "components/filetreeNavbar.njk"%}
         </div>
         
@@ -36,9 +36,8 @@
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}
-         <a href="/" class="navbar-logo-link" style="text-decoration: none; justify-content: center;">
-               <img src="/img/logo.png" alt="{{meta.siteName}}" class="navbar-logo" />
-               <h1 style="text-align:center;">{{meta.siteName}}</h1>
+         <a href="/" class="sidebar-title" style="text-decoration: none;">
+               <h1>{{meta.siteName}}</h1>
          </a>
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
