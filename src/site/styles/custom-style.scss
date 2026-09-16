@@ -50,11 +50,11 @@ body.theme-light {
   --link-external-color-hover: var(--palette-accent);
   --link-unresolved-color: var(--palette-accent-strong);
 
-  --font-default: "Pretendard", "Apple SD Gothic Neo", AppleSDGothicNeo,
-    AppleSDGothicNeoB00, -apple-system, BlinkMacSystemFont, "Malgun Gothic",
-    "맑은 고딕", "Noto Sans KR", "Segoe UI", Roboto, sans-serif;
-  --font-monospace-default: "JetBrains Mono", Menlo, SFMono-Regular, Consolas,
-    "Roboto Mono", "Source Code Pro", monospace;
+  --font-default:
+    "Pretendard", "Apple SD Gothic Neo", AppleSDGothicNeo, AppleSDGothicNeoB00, -apple-system, BlinkMacSystemFont,
+    "Malgun Gothic", "맑은 고딕", "Noto Sans KR", "Segoe UI", Roboto, sans-serif;
+  --font-monospace-default:
+    "JetBrains Mono", Menlo, SFMono-Regular, Consolas, "Roboto Mono", "Source Code Pro", monospace;
 }
 
 /* 웹폰트: Apple SD Gothic Neo는 Pretendard가 실패했을 때의 폴백으로만 로드 */
@@ -66,50 +66,45 @@ body {
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Thin.woff2")
-        format("woff2"),
-      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Thin.ttf")
-        format("truetype");
+    src:
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Thin.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Thin.ttf") format("truetype");
   }
   @font-face {
     font-family: "Apple SD Gothic Neo";
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Light.woff2")
-        format("woff2"),
-      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Light.ttf")
-        format("truetype");
+    src:
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Light.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Light.ttf") format("truetype");
   }
   @font-face {
     font-family: "Apple SD Gothic Neo";
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Regular.woff2")
-        format("woff2"),
-      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Regular.ttf")
-        format("truetype");
+    src:
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Regular.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Regular.ttf") format("truetype");
   }
   @font-face {
     font-family: "Apple SD Gothic Neo";
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Medium.woff2")
-        format("woff2"),
-      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Medium.ttf")
-        format("truetype");
+    src:
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Medium.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Medium.ttf") format("truetype");
   }
   @font-face {
     font-family: "Apple SD Gothic Neo";
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Bold.woff2")
-        format("woff2"),
-      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Bold.ttf")
-        format("truetype");
+    src:
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Bold.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Bold.ttf") format("truetype");
   }
 }
 
@@ -438,6 +433,32 @@ ul > li::marker {
   .filetree-sidebar {
     display: block !important;
   }
+}
+
+/* ===== 스크롤 주체를 body 내부 → 뷰포트로 =====
+   Obsidian 앱 CSS 잔재로 html/body가 overflow:hidden이고 body(.markdown-preview-view)가
+   height:100% + overflow-y:auto 인 내부 스크롤러였다. 그 상태에선
+   - position:fixed 오버레이 위에서 휠/터치가 뷰포트(html)로 넘어가 아무것도 안 움직이고
+   - 링크 미리보기의 pageYOffset 계산도 항상 0이 된다.
+   뷰포트가 스크롤하도록 되돌린다. overflow-x:hidden(가로 넘침 방지)은 html로 옮긴다. */
+html {
+  height: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+body.theme-light {
+  height: auto;
+  min-height: 100%;
+  overflow: visible; /* 한 축이라도 visible이 아니면 다시 스크롤 컨테이너가 되므로 둘 다 visible */
+}
+
+/* 모바일 드로어 오버레이: 템플릿 기본값이 position: absolute라 body 첫 화면 높이만 덮고
+   내용과 함께 스크롤돼 반토막으로 보였다. fixed로 뷰포트 전체를 덮고, 위 스크롤 주체
+   변경 덕에 오버레이 위에서 휠/터치 스크롤도 그대로 동작한다. */
+.fullpage-overlay {
+  position: fixed;
+  background-color: rgba(39, 55, 77, 0.45); /* #27374D */
 }
 
 /* ===== 상단바 (1400px 미만) — 햄버거 · 사이트명 · 검색을 한 축에 정렬 ===== */
