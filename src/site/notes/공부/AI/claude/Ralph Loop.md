@@ -1,5 +1,5 @@
 ---
-{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null,"dg-publish":true,"permalink":"/공부/AI/claude/Ralph Loop/","dgPassFrontmatter":true,"created":"2026-09-15T11:09:53.589+09:00","updated":"2026-09-16T11:37:25.994+09:00","dg-note-properties":{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null}}
+{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null,"dg-publish":true,"permalink":"/공부/AI/claude/Ralph Loop/","dgPassFrontmatter":true,"created":"2026-09-15T11:09:53.589+09:00","updated":"2026-09-17T13:50:22.972+09:00","dg-note-properties":{"제목":"Ralph Loop","날짜":"2026-09-15","tags":null}}
 ---
 
 
@@ -38,3 +38,19 @@ Ralph Loop는 Claude Code 에이전트를 계속 반복 실행시켜서 작업�
 ```
 
 슬래시 명령어 자체는 그대로 `/ralph-loop "..."`이고 플러그인 이름만 바뀐 겁니다. 참고로 Claude Code v1.0.20 이후 보안 패치(CVE-2025-54795)가 멀티라인 bash 명령을 차단하는데, 커맨드 파일이 멀티라인 bash를 쓰면 이 보호에 걸려서 `Bash command permission check failed... Command contains newlines` 같은 에러가 날 수 있다는 보고가 있습니다.
+
+Ralph 자체는 Geoffrey Huntley가 2025년 7월에 만든 기법입니다. 원형은 bash 한 줄이 전부입니다.
+
+```bash
+while :; do cat PROMPT.md | claude-code ; done
+```
+
+Huntley 본인도 "Ralph is a Bash loop", "brute force meets persistence"라고 표현합니다. 무지하지만 집착하고 낙천적인 랄프 위검 캐릭터 그대로입니다. 공식 플러그인은 이 bash 루프를 세션 안으로 옮긴 것이라 `Stop` hook이 exit code 2를 반환해서 종료를 막고 같은 프롬프트를 다시 주입하는 식으로 동작합니다.
+
+Claude Code를 만든 Boris Cherny도 "verification drives everything"이라고 말합니다. 검증 없이 돌리는 루프는 잘 되길 바라는 것과 다를 게 없다는 뜻입니다.
+
+실제 사례로 Huntley는 3개월짜리 Ralph 루프로 프로그래밍 언어를 통째로 만들었고 YC 해커톤 팀들은 하룻밤에 API 비용 $297로 repo 6개 이상을 완성했습니다. 반대 사례도 있습니다. completion-promise 없이 `--max-iterations`도 0(무제한)으로 두고 모호한 프롬프트를 돌려서 1,966번 반복된 사고가 실제로 있었습니다.
+
+최근(2026년) Anthropic이 플러그인 말고도 네이티브 대안을 Claude Code에 넣었습니다. v2.1.139 이후 `/loop`, `/goal`, `/batch` 명령어가 그것입니다. `Stop` hook의 정확한 동작이 필요할 때만 플러그인을 쓰고 그 외엔 네이티브 명령어를 먼저 쓰는 분위기입니다.
+
+마지막으로 Loop Engineering과의 관계를 정리하자면 Loop Engineering이 6요소를 갖춘 설계 방법론이라면 Ralph는 단일 프롬프트를 반복하는 구체적인 구현체입니다. Ralph는 Goal, Loop, Termination은 갖췄지만 Verification은 기본이 completion-promise 자기선언이라 약합니다. 그래서 테스트나 린터 같은 외부 검증과 결합해야 안전하고 요즘은 이 약점을 보완한 `/loop`, `/goal` 쪽으로 옮겨가는 추세입니다.
