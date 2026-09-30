@@ -1,5 +1,5 @@
 ---
-{"제목":"btw","날짜":"2026-09-29","tags":["AI"],"dg-publish":true,"permalink":"/공부/AI/claude/btw/","dgPassFrontmatter":true,"created":"2026-09-29T15:12:41.105+09:00","updated":"2026-09-29T15:12:41.106+09:00","dg-note-properties":{"제목":"btw","날짜":"2026-09-29","tags":["AI"]}}
+{"제목":"btw","날짜":"2026-09-29","tags":["AI"],"dg-publish":true,"permalink":"/공부/AI/claude/btw/","dgPassFrontmatter":true,"created":"2026-09-29T15:12:41.105+09:00","updated":"2026-09-29T15:17:13.374+09:00","dg-note-properties":{"제목":"btw","날짜":"2026-09-29","tags":["AI"]}}
 ---
 
 `/btw`는 by the way의 줄임말로 Claude가 작업하는 도중에 곁가지 질문을 던질 수 있는 명령어입니다.
@@ -14,6 +14,6 @@ Claude가 한창 작업 중일 때 치더라도 진행 중인 작업은 끊기�
 /btw 이 함수 왜 useCallback으로 감쌌지?
 ```
 
-비슷하게 세션에 끼어드는 기능으로 Channel이 있는데 방향이 정반대입니다. Channel은 Telegram, Discord 같은 외부 시스템이 세션에 메시지를 push하고 Claude가 그걸 실제 작업으로 처리하는 기능이라 대화 기록에도 남고 도구도 씁니다. 플러그인 설치와 `--channels` 플래그, allowlist 설정도 따로 필요합니다. 반면 `/btw`는 내장 명령어라 설정할 게 없고 터미널 앞에 있는 내가 직접 묻는 용도입니다.
+비슷하게 세션에 끼어드는 기능으로 [[공부/AI/claude/Channel\|Channel]]이 있는데 방향이 정반대입니다. Channel은 Telegram, Discord 같은 외부 시스템이 세션에 메시지를 push하고 Claude가 그걸 실제 작업으로 처리하는 기능이라 대화 기록에도 남고 도구도 씁니다. 플러그인 설치와 `--channels` 플래그, allowlist 설정도 따로 필요합니다. 반면 `/btw`는 내장 명령어라 설정할 게 없고 터미널 앞에 있는 내가 직접 묻는 용도입니다.
 
 마지막으로 정리하자면 `/btw`는 세션에 흔적을 남기지 않고 슬쩍 물어보는 기능이고 Channel은 밖에서 세션으로 일을 밀어넣는 기능입니다.
